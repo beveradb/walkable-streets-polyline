@@ -1,6 +1,12 @@
 # Walkable Streets Polyline Zillow Search
 Geocode all streets in an area (e.g. a city), fetch Walk Score data for each, filter to be only streets with a Walk Score and Cycle Score greater than a certain threshold (e.g. 70), and generate an alpha shape polygon to use for a Zillow search
 
+## Examples
+
+![Alpha Value Examples](/images/Austin-Alpha-Examples.png)
+
+![Resulting Zillow search](/images/Zillow-Example-Rental-Search.png)
+
 ### Instructions
 
 This was a quick hacky project to give me what I needed to find a place to rent in Austin, TX - so it's an ugly multi-step process, sorry! :)
@@ -67,20 +73,6 @@ However, if like me you want a Zillow search which only shows you properties in 
     - `python generate-zillow-url.py`
     - This should open a URL in your web browser with your amazing zillow search area baked into the URL!
     - You can edit the filters however you like, but crucially the `customRegionId` value in the URL is what adds the custom search area (which this script also prints in the terminal for convenience)
-
-#### Examples:
-
-![Alpha Shape with Alpha = 10](/images/Austin-Alpha-10.png)
-*Alpha Shape with Alpha = 10*
-
-![Alpha Shape with Alpha = 130](/images/Austin-Alpha-130.png)
-*Alpha Shape with Alpha = 130*
-
-![Alpha Shape with Alpha = 400](/images/Austin-Alpha-400.png)
-*Alpha Shape with Alpha = 400*
-
-![Resulting Zillow search](/images/Zillow-Example-Rental-Search.png)
-*Resulting Zillow search*
 
 #### To Do:
 
