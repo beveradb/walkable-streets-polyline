@@ -1,0 +1,856 @@
+Address,Hood,Town,County,Zip,Lat,Lng,Walk Score,Bike Score,Transit Score
+"Academy Dr, Austin, TX 78704, USA",Greater South River City,Austin,Travis County,78704,30.2519969,-97.7449865,78,83,56
+"Adam L Chapa Sr St, Austin, TX 78702, USA",Holly,Austin,Travis County,78702,30.2576757,-97.7232322,96,91,46
+"Adams Ave, Austin, TX 78756, USA",Brentwood,Austin,Travis County,78756,30.3314746,-97.7389988,86,79,50
+"Airport Blvd, Austin, TX 78752, USA",UnknownHood,Austin,Travis County,78752,30.2959096,-97.7080269,85,80,48
+"Alameda Dr, Austin, TX 78704, USA",Greater South River City,Austin,Travis County,78704,30.2448346,-97.74385,79,78,51
+"Alcove Ct, Austin, TX 78757, USA",Brentwood,Austin,Travis County,78757,30.3363869,-97.7333988,78,86,50
+"Alexander Ave, Austin, TX 78702, USA",East Austin,Austin,Travis County,78702,30.2806896,-97.7092616,74,86,52
+"Alguno Rd, Austin, TX 78757, USA",Brentwood,Austin,Travis County,78757,30.3338328,-97.7335729,79,86,51
+"Allen St, Austin, TX 78702, USA",Govalle,Austin,Travis County,78702,30.2555783,-97.7053563,71,96,50
+"Allwood Dr, Austin, TX 78704, USA",Zilker,Austin,Travis County,78704,30.2495659,-97.7736796,88,88,46
+"Amber St, Austin, TX 78702, USA",Central East Austin,Austin,Travis County,78702,30.2713034,-97.7275277,84,89,53
+"Amesbury Ln, Austin, TX 78752, USA",Highland,Austin,Travis County,78752,30.3415463,-97.7137242,76,80,55
+"Angelina St, Austin, TX 78702, USA",Central East Austin,Austin,Travis County,78702,30.2710569,-97.724761,85,94,48
+"Anita Dr, Austin, TX 78704, USA",Zilker,Austin,Travis County,78704,30.2541272,-97.7705758,83,91,44
+"Ann Arbor Ave, Austin, TX 78704, USA",Zilker,Austin,Travis County,78704,30.2507104,-97.7772481,78,82,45
+"Anthony St, Austin, TX 78702, USA",Holly,Austin,Travis County,78702,30.2530825,-97.7234652,87,98,47
+"Apache Pass, Austin, TX 78745, USA",South Austin,Austin,Travis County,78745,30.2286081,-97.7981937,71,76,52
+"Ardenwood Rd, Austin, TX 78722, USA",Cherrywood,Austin,Travis County,78722,30.299071,-97.7147,74,81,49
+"Arpdale St, Austin, TX 78704, USA",UnknownHood,Austin,Travis County,78704,30.249204,-97.7794674,79,84,46
+"Ashberry Dr, Austin, TX 78723, USA",Windsor Park,Austin,Travis County,78723,30.3185437,-97.6921758,71,78,45
+"Ashby Ave, Austin, TX 78704, USA",Zilker,Austin,Travis County,78704,30.256105,-97.7706568,74,90,43
+"Ashdale Dr, Austin, TX 78757, USA",UnknownHood,Austin,Travis County,78757,30.3603267,-97.7337095,80,89,49
+"Ashwood Rd, Austin, TX 78722, USA",Cherrywood,Austin,Travis County,78722,30.2939222,-97.7146491,76,80,50
+"Atlanta St, Austin, TX 78703, USA",Westfield,Austin,Travis County,78703,30.2772715,-97.7704765,73,80,41
+"Attayac St, Austin, TX 78702, USA",East Austin,Austin,Travis County,78702,30.2622368,-97.7303524,95,94,52
+"Augusta Ave, Austin, TX 78703, USA",Clarksville,Austin,Travis County,78703,30.2771138,-97.7647323,73,80,43
+"Avenue A, Austin, TX 78751, USA",UnknownHood,Austin,Travis County,78751,30.3093022,-97.7327442,84,98,59
+"Avenue B, Austin, TX 78751, USA",UnknownHood,Austin,Travis County,78751,30.3076599,-97.7326118,85,99,59
+"Avenue C, Austin, TX 78752, USA",UnknownHood,Austin,Travis County,78752,30.3123804,-97.7283754,72,92,58
+"Avenue D, Austin, TX 78751, USA",UnknownHood,Austin,Travis County,78751,30.311962,-97.727538,72,92,58
+"Avenue D, Austin, TX 78752, USA",UnknownHood,Austin,Travis County,78752,30.311962,-97.727538,72,92,58
+"Avenue F, Austin, TX 78751, USA",UnknownHood,Austin,Travis County,78751,30.311094,-97.725572,73,91,56
+"Avenue F, Austin, TX 78752, USA",UnknownHood,Austin,Travis County,78752,30.311094,-97.725572,73,91,56
+"Avenue G, Austin, TX 78751, USA",UnknownHood,Austin,Travis County,78751,30.3117498,-97.723848,72,92,55
+"Avenue G, Austin, TX 78752, USA",UnknownHood,Austin,Travis County,78752,30.3189434,-97.7191608,72,96,52
+"Avenue H, Austin, TX 78751, USA",UnknownHood,Austin,Travis County,78751,30.3092906,-97.7243107,77,90,56
+"Bailey Lane, Austin, TX 78705, USA",UnknownHood,Austin,Travis County,78705,30.306384,-97.7457098,85,91,54
+"Bailey Lane, Austin, TX 78756, USA",UnknownHood,Austin,Travis County,78756,30.3074444,-97.7448565,87,91,55
+"Banton Rd, Austin, TX 78722, USA",Cherrywood,Austin,Travis County,78722,30.287058,-97.7082591,80,91,50
+"Banyon St, Austin, TX 78757, USA",Crestview,Austin,Travis County,78757,30.3433348,-97.7179333,72,88,56
+"Barbara St, Austin, TX 78757, USA",Crestview,Austin,Travis County,78757,30.3517599,-97.7260346,83,83,51
+"Barrow Ave, Austin, TX 78751, USA",Central Austin,Austin,Travis County,78751,30.3042216,-97.7251066,86,87,56
+"Bartlett St, Austin, TX 78704, USA",UnknownHood,Austin,Travis County,78704,30.2419209,-97.7530561,93,86,50
+"Barton Skyway, Austin, TX 78704, USA",UnknownHood,Austin,Travis County,78704,30.247328,-97.7850526,71,76,44
+"Barton Village Cir, Austin, TX 78704, USA",Zilker,Austin,Travis County,78704,30.2458731,-97.7829447,77,81,45
+"Bauerle Ave, Austin, TX 78704, USA",Zilker,Austin,Travis County,78704,30.2518853,-97.7699057,85,90,45
+"Baylor St, Austin, TX 78703, USA",UnknownHood,Austin,Travis County,78703,30.2742796,-97.753773,97,73,62
+"Beanna St, Austin, TX 78705, USA",UnknownHood,Austin,Travis County,78705,30.2903987,-97.7296223,78,91,69
+"Becker Ave, Austin, TX 78751, USA",Central Austin,Austin,Travis County,78751,30.2977053,-97.7217218,82,90,51
+"Beckett St, Austin, TX 78757, USA",Wooten,Austin,Travis County,78757,30.3562531,-97.7195463,74,73,50
+"Beech Dr, Austin, TX 78758, USA",North Austin Civic Association,Austin,Travis County,78758,30.3584496,-97.714795,78,76,48
+"Belford Dr, Austin, TX 78757, USA",Wooten,Austin,Travis County,78757,30.3554214,-97.7256381,84,77,50
+"Bellevue Pl, Austin, TX 78705, USA",Central Austin,Austin,Travis County,78705,30.2914088,-97.7330453,79,89,71
+"Bellvue Ave, Austin, TX 78756, USA",Rosedale,Austin,Travis County,78756,30.3130324,-97.7405835,87,86,56
+"Ben Howell Dr, Austin, TX 78704, USA",Dawson,Austin,Travis County,78704,30.2357259,-97.7588269,83,72,49
+"Benelva Dr, Austin, TX 78705, USA",North University,Austin,Travis County,78705,30.293974,-97.7335161,76,83,70
+"Bennett Ave, Austin, TX 78751, USA",UnknownHood,Austin,Travis County,78751,30.3096427,-97.7143714,83,93,50
+"Beverly Rd, Austin, TX 78703, USA",Old West Austin,Austin,Travis County,78703,30.3050797,-97.7553152,75,87,42
+"Bissonet Ln, Austin, TX 78752, USA",Highland,Austin,Travis County,78752,30.3424631,-97.7133723,76,80,55
+"Blanco St, Austin, TX 78703, USA",Clarksville,Austin,Travis County,78703,30.275187,-97.7555529,95,77,60
+"Blue Crest Dr, Austin, TX 78704, USA",Zilker,Austin,Travis County,78704,30.2501217,-97.773908,85,85,45
+"Bluebonnet Ln, Austin, TX 78704, USA",UnknownHood,Austin,Travis County,78704,30.2529328,-97.7732693,82,90,44
+"Bluff St, Austin, TX 78704, USA",Zilker,Austin,Travis County,78704,30.2588069,-97.7597701,84,73,56
+"Bon Air Dr, Austin, TX 78757, USA",Wooten,Austin,Travis County,78757,30.3547901,-97.7227409,73,75,51
+"Bonniview St, Austin, TX 78704, USA",Greater South River City,Austin,Travis County,78704,30.2535664,-97.7452684,77,82,58
+"Bouldin Ave, Austin, TX 78704, USA",Bouldin Creek,Austin,Travis County,78704,30.2526207,-97.7576366,80,79,55
+"Bowie St, Austin, TX 78703, USA",Downtown Austin,Austin,Travis County,78703,30.269738,-97.75317,98,92,65
+"Bowling Green Dr, Austin, TX 78757, USA",Wooten,Austin,Travis County,78757,30.3658508,-97.7271997,71,75,50
+"Bowman Ave, Austin, TX 78703, USA",Tarrytown,Austin,Travis County,78703,30.2979169,-97.7674495,73,79,31
+"Brackenridge St, Austin, TX 78704, USA",Greater South River City,Austin,Travis County,78704,30.2445301,-97.7490953,94,85,52
+"Bradwood Rd, Austin, TX 78722, USA",Cherrywood,Austin,Travis County,78722,30.2974579,-97.7161083,81,84,48
+"Branch St, Austin, TX 78702, USA",Central East Austin,Austin,Travis County,78702,30.2704391,-97.7312948,88,85,58
+"Brandywine Ct, Austin, TX 78727, USA",Lamplight Village,Austin,Travis County,78727,30.4179583,-97.6965203,71,71,29
+"Brandywine Ln, Austin, TX 78727, USA",Lamplight Village,Austin,Travis County,78727,30.417395,-97.6965404,73,73,30
+"Brass St, Austin, TX 78702, USA",Govalle,Austin,Travis County,78702,30.264524,-97.7040749,73,89,47
+"Brazos St, Austin, TX 78701, USA",UnknownHood,Austin,Travis County,78701,30.2721751,-97.7398053,91,90,68
+"Breeze Terrace, Austin, TX 78722, USA",Cherrywood,Austin,Travis County,78722,30.2865364,-97.7182782,76,94,58
+"Brewster St, Austin, TX 78704, USA",Dawson,Austin,Travis County,78704,30.2343361,-97.7597077,76,72,49
+"Briar St, Austin, TX 78704, USA",Bouldin Creek,Austin,Travis County,78704,30.2493841,-97.7603724,83,79,52
+"Briarcliff Blvd, Austin, TX 78723, USA",Windsor Park,Austin,Travis County,78723,30.3149465,-97.6942612,71,75,45
+"Briardale Dr, Austin, TX 78758, USA",North Austin Civic Association,Austin,Travis County,78758,30.3660629,-97.7139505,79,80,44
+"Briarwood Ln, Austin, TX 78757, USA",North Shoal Creek,Austin,Travis County,78757,30.3645425,-97.7340529,71,88,49
+"Brickford Cove, Austin, TX 78745, USA",South Austin,Austin,Travis County,78745,30.2099446,-97.8142014,72,84,42
+"Brinwood Ave, Austin, TX 78704, USA",Dawson,Austin,Travis County,78704,30.2337221,-97.760215,76,72,49
+"Broadway St, Austin, TX 78702, USA",Govalle,Austin,Travis County,78702,30.2544474,-97.7109631,83,98,49
+"Brockman St, Austin, TX 78757, USA",UnknownHood,Austin,Travis County,78757,30.3565012,-97.7297239,87,80,51
+"Brodie St, Austin, TX 78704, USA",Bouldin Creek,Austin,Travis County,78704,30.2469697,-97.7638769,83,73,50
+"Brookfield Dr, Austin, TX 78758, USA",North Austin Civic Association,Austin,Travis County,78758,30.3604228,-97.711904,75,72,47
+"Brooklyn St, Austin, TX 78704, USA",Greater South River City,Austin,Travis County,78704,30.2408649,-97.7483047,86,77,50
+"Brookside Dr, Austin, TX 78723, USA",Windsor Park,Austin,Travis County,78723,30.318739,-97.6938156,72,75,45
+"Brookview Rd, Austin, TX 78722, USA",Cherrywood,Austin,Travis County,78722,30.294017,-97.7098019,75,80,49
+"Brownlee Cir, Austin, TX 78703, USA",Clarksville,Austin,Travis County,78703,30.2748149,-97.7582382,91,79,54
+"Brushy St, Austin, TX 78702, USA",East Austin,Austin,Travis County,78702,30.263631,-97.734359,95,95,58
+"Bryan St, Austin, TX 78702, USA",Blackshear-Prospect Hill,Austin,Travis County,78702,30.2669344,-97.7163533,82,78,49
+"Bryker Dr, Austin, TX 78703, USA",Old West Austin,Austin,Travis County,78703,30.3046837,-97.7544423,75,87,42
+"Buckingham Cir, Austin, TX 78704, USA",Greater South River City,Austin,Travis County,78704,30.2377697,-97.7483135,81,71,49
+"Buell Ave, Austin, TX 78757, USA",UnknownHood,Austin,Travis County,78757,30.3640157,-97.7307558,73,84,50
+"Burbank St, Austin, TX 78757, USA",Brentwood,Austin,Travis County,78757,30.3410687,-97.7345991,71,81,48
+"Burnet Ln, Austin, TX 78757, USA",UnknownHood,Austin,Travis County,78757,30.3426354,-97.737117,81,82,46
+"Burnet Rd, Austin, TX 78757, USA",UnknownHood,Austin,Travis County,78757,30.3547942,-97.7316191,87,80,50
+"Burns St, Austin, TX 78752, USA",Highland,Austin,Travis County,78752,30.3306219,-97.7215545,76,93,55
+"Butler Rd, Austin, TX 78704, USA",Zilker,Austin,Travis County,78704,30.2622972,-97.7584077,86,91,60
+"Cactus Ln, Austin, TX 78745, USA",South Austin,Austin,Travis County,78745,30.2277415,-97.7915906,76,81,55
+"Cll Limon, Austin, TX 78702, USA",Govalle,Austin,Travis County,78702,30.2598388,-97.6958097,73,79,47
+"Calles St, Austin, TX 78702, USA",East Austin,Austin,Travis County,78702,30.2596126,-97.7120742,91,98,48
+"Camden Dr, Austin, TX 78757, USA",Wooten,Austin,Travis County,78757,30.3569737,-97.7274868,84,78,51
+"Campbell St, Austin, TX 78703, USA",UnknownHood,Austin,Travis County,78703,30.2768502,-97.7635919,73,80,43
+"Caney St, Austin, TX 78702, USA",Holly,Austin,Travis County,78702,30.2569909,-97.7212825,95,95,47
+"Canion St, Austin, TX 78752, USA",Highland,Austin,Travis County,78752,30.3332946,-97.7177547,83,96,56
+"Canterbury St, Austin, TX 78702, USA",East Austin,Austin,Travis County,78702,30.2543816,-97.722866,92,97,47
+"Castle Ct, Austin, TX 78703, USA",Clarksville,Austin,Travis County,78703,30.2772005,-97.7532566,93,82,60
+"Castle Hill St, Austin, TX 78703, USA",Clarksville,Austin,Travis County,78703,30.2783845,-97.7530078,89,84,58
+"Castro St, Austin, TX 78702, USA",Govalle,Austin,Travis County,78702,30.2619986,-97.7063125,82,95,47
+"Caswell Ave, Austin, TX 78751, USA",UnknownHood,Austin,Travis County,78751,30.307765,-97.7194354,82,92,52
+"Catalpa St, Austin, TX 78702, USA",Central East Austin,Austin,Travis County,78702,30.2715256,-97.7294859,83,81,56
+"Cedar St, Austin, TX 78705, USA",North University,Austin,Travis County,78705,30.2986524,-97.736192,86,98,64
+"Chalmers Ave, Austin, TX 78702, USA",East Austin,Austin,Travis County,78702,30.2587117,-97.7262368,94,90,45
+"Charlotte St, Austin, TX 78703, USA",Clarksville,Austin,Travis County,78703,30.2808374,-97.761134,81,87,42
+"Chatham Ave, Austin, TX 78723, USA",Windsor Park,Austin,Travis County,78723,30.3151843,-97.6927282,73,83,45
+"Cherico St, Austin, TX 78702, USA",Govalle,Austin,Travis County,78702,30.261903,-97.7022329,74,89,47
+"Cherrywood Rd, Austin, TX 78722, USA",Cherrywood,Austin,Travis County,78722,30.2901451,-97.7145977,76,83,53
+"Chicon St, Austin, TX 78722, USA",East Austin,Austin,Travis County,78722,30.2817768,-97.7216503,84,93,59
+"Chote Ave, Austin, TX 78702, USA",Govalle,Austin,Travis County,78702,30.2608791,-97.6973788,77,84,46
+"Christopher St, Austin, TX 78704, USA",Bouldin Creek,Austin,Travis County,78704,30.2552309,-97.7561496,74,86,57
+"Cimarron Trail, Austin, TX 78745, USA",South Austin,Austin,Travis County,78745,30.2277415,-97.7915906,76,81,55
+"Clara St, Austin, TX 78702, USA",Holly,Austin,Travis County,78702,30.253804,-97.718119,85,98,48
+"Clarewood Cir, Austin, TX 78758, USA",North Austin Civic Association,Austin,Travis County,78758,30.3606283,-97.713626,77,74,47
+"Clarewood Dr, Austin, TX 78758, USA",North Austin Civic Association,Austin,Travis County,78758,30.3620821,-97.7132853,78,76,44
+"Clarkdale Ln, Austin, TX 78757, USA",North Shoal Creek,Austin,Travis County,78757,30.3628498,-97.7331184,75,86,50
+"Clarkson Ave, Austin, TX 78722, USA",UnknownHood,Austin,Travis County,78722,30.3000049,-97.716744,78,80,50
+"Clarkson Ave, Austin, TX 78751, USA",UnknownHood,Austin,Travis County,78751,30.3068846,-97.7161958,84,90,51
+"Clawson Rd, Austin, TX 78745, USA",UnknownHood,Austin,Travis County,78745,30.228727,-97.7841043,72,79,52
+"Clay Ave, Austin, TX 78756, USA",Brentwood,Austin,Travis County,78756,30.3295055,-97.7386834,85,82,50
+"Clermont Ave, Austin, TX 78702, USA",East Cesar Chavez,Austin,Travis County,78702,30.2543501,-97.7351557,80,96,51
+"Cliff St, Austin, TX 78705, USA",Central Austin,Austin,Travis County,78705,30.285271,-97.7518245,76,73,54
+"Clifford Ave, Austin, TX 78702, USA",Chestnut,Austin,Travis County,78702,30.2793372,-97.7071686,75,91,51
+"Cody Ct, Austin, TX 78704, USA",South Lamar,Austin,Travis County,78704,30.2419826,-97.7802207,75,71,45
+"Cole St, Austin, TX 78705, USA",Central Austin,Austin,Travis County,78705,30.2878075,-97.7250906,78,97,64
+"Coleman St, Austin, TX 78704, USA",Dawson,Austin,Travis County,78704,30.2313011,-97.7598566,82,73,49
+"Colfax Ave, Austin, TX 78757, USA",Wooten,Austin,Travis County,78757,30.3675073,-97.7267698,74,73,50
+"College Ave, Austin, TX 78704, USA",UnknownHood,Austin,Travis County,78704,30.2407581,-97.7527221,94,88,50
+"College Row, Austin, TX 78702, USA",Blackshear-Prospect Hill,Austin,Travis County,78702,30.2654205,-97.7201518,92,85,47
+"Collier St, Austin, TX 78704, USA",Zilker,Austin,Travis County,78704,30.2534057,-97.7686533,84,88,45
+"Colonial Dr, Austin, TX 78758, USA",North Austin Civic Association,Austin,Travis County,78758,30.3625258,-97.7141464,81,81,44
+"Colony Creek Dr, Austin, TX 78758, USA",North Austin Civic Association,Austin,Travis County,78758,30.3670984,-97.7126741,74,79,43
+"Colorado St, Austin, TX 78701, USA",Downtown Austin,Austin,Travis County,78701,30.2724158,-97.7426562,83,90,72
+"Columbus St, Austin, TX 78704, USA",Bouldin Creek,Austin,Travis County,78704,30.2545749,-97.756424,74,86,57
+"Comal St, Austin, TX 78702, USA",East Austin,Austin,Travis County,78702,30.2661527,-97.7250912,94,85,48
+"Comanche St, Austin, TX 78705, USA",Central Austin,Austin,Travis County,78705,30.2883612,-97.7263575,81,93,65
+"Concho St, Austin, TX 78702, USA",East Austin,Austin,Travis County,78702,30.269047,-97.7231089,91,91,47
+"Concordia Ave, Austin, TX 78705, USA",UnknownHood,Austin,Travis County,78705,30.2927564,-97.7206481,77,89,57
+"Concordia Ave, Austin, TX 78722, USA",UnknownHood,Austin,Travis County,78722,30.2920276,-97.7190931,76,83,56
+"Maggie Mayes St, Austin, TX 78703, USA",Clarksville,Austin,Travis County,78703,30.2788501,-97.7621558,82,89,43
+"Congress Ave., Austin, TX 78701, USA",UnknownHood,Austin,Travis County,78701,30.2718005,-97.7414332,92,91,68
+"Connelly St, Austin, TX 78751, USA",North Loop,Austin,Travis County,78751,30.3043147,-97.7148099,82,80,51
+"Copeland St, Austin, TX 78704, USA",Bouldin Creek,Austin,Travis County,78704,30.2535099,-97.7535646,77,83,58
+"Cornell St, Austin, TX 78702, USA",Blackshear-Prospect Hill,Austin,Travis County,78702,30.268404,-97.718164,85,83,48
+"Coronado St, Austin, TX 78702, USA",East Austin,Austin,Travis County,78702,30.2619914,-97.7141931,91,92,48
+"Corta St, Austin, TX 78702, USA",Holly,Austin,Travis County,78702,30.2565493,-97.717925,87,95,48
+"Cotton St, Austin, TX 78702, USA",Central East Austin,Austin,Travis County,78702,30.2714561,-97.7257033,85,94,48
+"Covey Ct, Austin, TX 78758, USA",North Austin Civic Association,Austin,Travis County,78758,30.3641836,-97.711674,72,84,43
+"Crawford St, Austin, TX 78731, USA",UnknownHood,Austin,Travis County,78731,30.3071853,-97.7494384,90,84,50
+"Crescent Dr, Austin, TX 78722, USA",Cherrywood,Austin,Travis County,78722,30.2942773,-97.7108565,74,76,49
+"Crest Ave, Austin, TX 78702, USA",Rosewood,Austin,Travis County,78702,30.2737149,-97.7031516,73,79,48
+"Crestmont Dr, Austin, TX 78756, USA",Rosedale,Austin,Travis County,78756,30.3227789,-97.742639,78,86,50
+"Crestwood Rd, Austin, TX 78722, USA",UnknownHood,Austin,Travis County,78722,30.2993591,-97.713024,76,74,49
+"Crockett St, Austin, TX 78704, USA",Bouldin Creek,Austin,Travis County,78704,30.2438166,-97.7541278,96,87,52
+"Cross St, Austin, TX 78702, USA",East Cesar Chavez,Austin,Travis County,78702,30.2565225,-97.7323785,83,96,48
+"Cullen Ave, Austin, TX 78757, USA",Crestview,Austin,Travis County,78757,30.3436433,-97.7305359,74,85,51
+"Cummings St, Austin, TX 78701, USA",Rainey Street Historic District,Austin,Travis County,78701,30.2556096,-97.7394157,80,84,57
+"Curtis Ave, Austin, TX 78722, USA",East Austin,Austin,Travis County,78722,30.2844452,-97.7122912,84,85,51
+"Curve St, Austin, TX 78702, USA",Central East Austin,Austin,Travis County,78702,30.2708548,-97.7296456,83,81,56
+"Dale Dr, Austin, TX 78757, USA",Wooten,Austin,Travis County,78757,30.3529995,-97.7193167,71,80,52
+"Dancy St, Austin, TX 78722, USA",East Austin,Austin,Travis County,78722,30.287061,-97.721622,75,96,60
+"Daniel Dr, Austin, TX 78704, USA",Bouldin Creek,Austin,Travis County,78704,30.2591657,-97.7551545,81,83,61
+"David St, Austin, TX 78705, USA",Central Austin,Austin,Travis County,78705,30.2849095,-97.7505641,84,87,57
+"Davis St, Austin, TX 78701, USA",Rainey Street Historic District,Austin,Travis County,78701,30.2602426,-97.7387655,91,95,59
+"Dawson Rd, Austin, TX 78704, USA",Bouldin Creek,Austin,Travis County,78704,30.2586272,-97.7562353,81,73,59
+"De Verne St, Austin, TX 78704, USA",Zilker,Austin,Travis County,78704,30.2492213,-97.7778674,82,83,46
+"Deep Eddy Ave, Austin, TX 78703, USA",Westfield,Austin,Travis County,78703,30.2786064,-97.7719322,71,82,41
+"Del Curto Rd, Austin, TX 78704, USA",South Lamar,Austin,Travis County,78704,30.2439412,-97.7768899,74,77,46
+"Delcrest Dr, Austin, TX 78704, USA",South Lamar,Austin,Travis County,78704,30.245492,-97.7749811,85,83,46
+"Depew Ave, Austin, TX 78751, USA",North Loop,Austin,Travis County,78751,30.3084553,-97.7160871,85,94,51
+"Devon Cir, Austin, TX 78723, USA",Windsor Park,Austin,Travis County,78723,30.314823,-97.6952398,71,75,45
+"Dexter St, Austin, TX 78704, USA",Zilker,Austin,Travis County,78704,30.2579194,-97.7669583,75,86,44
+"Dickson Dr, Austin, TX 78704, USA",Zilker,Austin,Travis County,78704,30.2456628,-97.7803173,83,84,46
+"Doris Dr, Austin, TX 78757, USA",Wooten,Austin,Travis County,78757,30.3635982,-97.7263991,71,77,50
+"Drake Ave, Austin, TX 78704, USA",Greater South River City,Austin,Travis County,78704,30.247052,-97.747504,92,87,53
+"Driskill St, Austin, TX 78701, USA",Rainey Street Historic District,Austin,Travis County,78701,30.2609233,-97.7379786,92,95,60
+"Drury Ln, Austin, TX 78722, USA",Cherrywood,Austin,Travis County,78722,30.2857631,-97.7215084,75,96,60
+"Dryfield Dr, Austin, TX 78758, USA",North Austin Civic Association,Austin,Travis County,78758,30.359542,-97.7136434,77,74,47
+"Duke Ave, Austin, TX 78757, USA",Crestview,Austin,Travis County,78757,30.3525254,-97.7255369,83,84,50
+"Dunbury Dr, Austin, TX 78723, USA",Windsor Park,Austin,Travis County,78723,30.314707,-97.6937588,72,80,45
+"Duncan Ln, Austin, TX 78705, USA",Central Austin,Austin,Travis County,78705,30.2917923,-97.7240853,80,92,60
+"Durwood St, Austin, TX 78704, USA",UnknownHood,Austin,Travis County,78704,30.2409471,-97.7582219,93,71,51
+"Duval St, Austin, TX 78751, USA",UnknownHood,Austin,Travis County,78751,30.3087391,-97.7234836,80,92,54
+"Duval St, Austin, TX 78752, USA",UnknownHood,Austin,Travis County,78752,30.3142291,-97.7199367,75,96,53
+"Dwyce Dr, Austin, TX 78757, USA",Brentwood,Austin,Travis County,78757,30.3397604,-97.7269381,74,88,54
+"Dywer Ave, Austin, TX 78704, USA",Zilker,Austin,Travis County,78704,30.2563313,-97.7679618,74,88,44
+"Eason St, Austin, TX 78703, USA",Clarksville,Austin,Travis County,78703,30.2795125,-97.758974,88,94,45
+"E 10th St, Austin, TX 78701, USA",UnknownHood,Austin,Travis County,78701,30.2701387,-97.7354673,91,84,64
+"E 10th St, Austin, TX 78702, USA",UnknownHood,Austin,Travis County,78702,30.2673027,-97.7267326,88,85,49
+"E 11th St, Austin, TX 78701, USA",UnknownHood,Austin,Travis County,78701,30.2712233,-97.7356468,83,80,65
+"E 11th St, Austin, TX 78702, USA",UnknownHood,Austin,Travis County,78702,30.2684347,-97.7269315,92,88,50
+"E 12th St, Austin, TX 78701, USA",UnknownHood,Austin,Travis County,78701,30.2721908,-97.7348639,83,80,65
+"E 13th St, Austin, TX 78701, USA",UnknownHood,Austin,Travis County,78701,30.2729525,-97.7314888,74,86,66
+"E 13th St, Austin, TX 78702, USA",UnknownHood,Austin,Travis County,78702,30.2747456,-97.7202743,87,94,52
+"E 14th St, Austin, TX 78702, USA",UnknownHood,Austin,Travis County,78702,30.2755967,-97.7213334,84,92,55
+"E 16th St, Austin, TX 78702, USA",UnknownHood,Austin,Travis County,78702,30.2780111,-97.7122515,76,96,52
+"E 17th St, Austin, TX 78702, USA",UnknownHood,Austin,Travis County,78702,30.2783822,-97.7162815,82,89,52
+"E 18th St, Austin, TX 78701, USA",UnknownHood,Austin,Travis County,78701,30.2795712,-97.7383504,90,93,74
+"E 18th St, Austin, TX 78702, USA",UnknownHood,Austin,Travis County,78702,30.27899,-97.7197791,86,86,56
+"E 18th St, Austin, TX 78721, USA",UnknownHood,Austin,Travis County,78721,30.2811158,-97.7030883,74,97,50
+"E 20th St, Austin, TX 78722, USA",UnknownHood,Austin,Travis County,78722,30.2807875,-97.7214376,83,91,58
+"E 21st St, Austin, TX 78722, USA",UnknownHood,Austin,Travis County,78722,30.2819739,-97.7204587,86,87,58
+"E 22nd St, Austin, TX 78722, USA",East Austin,Austin,Travis County,78722,30.2835146,-97.7175602,85,88,56
+"E 23rd St, Austin, TX 78712, USA",University of Texas at Austin,Austin,Travis County,78712,30.2853319,-97.7343037,73,89,72
+"E 24th St, Austin, TX 78705, USA",University of Texas at Austin,Austin,Travis County,78705,30.2872855,-97.7363831,82,94,73
+"E 24th St, Austin, TX 78712, USA",University of Texas at Austin,Austin,Travis County,78712,30.2872855,-97.7363831,82,94,73
+"E 27th St, Austin, TX 78712, USA",University of Texas at Austin,Austin,Travis County,78712,30.291676,-97.7372366,82,86,73
+"E 28th St, Austin, TX 78722, USA",Cherrywood,Austin,Travis County,78722,30.285375,-97.7217826,81,97,60
+"E 29th St, Austin, TX 78722, USA",UnknownHood,Austin,Travis County,78722,30.2863778,-97.7220342,75,96,60
+"E 2nd St, Austin, TX 78701, USA",UnknownHood,Austin,Travis County,78701,30.2619677,-97.7355568,95,92,59
+"E 2nd St, Austin, TX 78702, USA",UnknownHood,Austin,Travis County,78702,30.2573305,-97.7222601,94,91,47
+"E 30th St, Austin, TX 78705, USA",UnknownHood,Austin,Travis County,78705,30.2900726,-97.7289399,79,93,69
+"E 30th St, Austin, TX 78722, USA",UnknownHood,Austin,Travis County,78722,30.2886332,-97.725741,78,97,64
+"E 31st St, Austin, TX 78705, USA",UnknownHood,Austin,Travis County,78705,30.2910052,-97.7293443,78,91,69
+"E 31st St, Austin, TX 78722, USA",UnknownHood,Austin,Travis County,78722,30.288554,-97.723355,77,96,62
+"E 32nd St, Austin, TX 78722, USA",UnknownHood,Austin,Travis County,78722,30.289573,-97.7227149,78,91,59
+"E 33rd St, Austin, TX 78705, USA",North University,Austin,Travis County,78705,30.2964272,-97.7337319,78,91,64
+"E 34th St, Austin, TX 78705, USA",UnknownHood,Austin,Travis County,78705,30.297079,-97.7323359,72,95,63
+"E 34th St, Austin, TX 78722, USA",UnknownHood,Austin,Travis County,78722,30.2899675,-97.7158596,72,82,54
+"E 38th St, Austin, TX 78705, USA",UnknownHood,Austin,Travis County,78705,30.2973172,-97.7269459,72,82,56
+"E 38th St, Austin, TX 78722, USA",UnknownHood,Austin,Travis County,78722,30.294305,-97.7201991,81,89,56
+"E 39th St, Austin, TX 78722, USA",UnknownHood,Austin,Travis County,78722,30.2955817,-97.7194053,82,85,49
+"E 39th St, Austin, TX 78751, USA",UnknownHood,Austin,Travis County,78751,30.2998435,-97.727465,76,92,59
+"E 3rd St, Austin, TX 78701, USA",UnknownHood,Austin,Travis County,78701,30.2630779,-97.7360933,95,92,59
+"E 3rd St, Austin, TX 78702, USA",UnknownHood,Austin,Travis County,78702,30.258676,-97.7232019,96,91,46
+"E 40th St, Austin, TX 78722, USA",UnknownHood,Austin,Travis County,78722,30.2967191,-97.718743,81,87,49
+"E 40th St, Austin, TX 78751, USA",UnknownHood,Austin,Travis County,78751,30.3007628,-97.7268921,85,91,57
+"E 41st St, Austin, TX 78751, USA",UnknownHood,Austin,Travis County,78751,30.3008583,-97.7247333,85,85,56
+"E 42nd St, Austin, TX 78751, USA",UnknownHood,Austin,Travis County,78751,30.3039196,-97.7277271,86,98,59
+"E 43rd St, Austin, TX 78751, USA",UnknownHood,Austin,Travis County,78751,30.3033338,-97.7232453,76,83,55
+"E 44th St, Austin, TX 78751, USA",UnknownHood,Austin,Travis County,78751,30.3044627,-97.7231083,75,85,55
+"E 45th St, Austin, TX 78751, USA",UnknownHood,Austin,Travis County,78751,30.305744,-97.7215971,83,88,53
+"E 46th St, Austin, TX 78751, USA",UnknownHood,Austin,Travis County,78751,30.307282,-97.7205947,79,92,52
+"E 47th St, Austin, TX 78751, USA",UnknownHood,Austin,Travis County,78751,30.308814,-97.7210201,74,96,53
+"E 48th St, Austin, TX 78751, USA",UnknownHood,Austin,Travis County,78751,30.3093052,-97.7197892,74,96,53
+"E 49th St, Austin, TX 78751, USA",UnknownHood,Austin,Travis County,78751,30.3104006,-97.7177223,79,99,52
+"E 4th St, Austin, TX 78701, USA",UnknownHood,Austin,Travis County,78701,30.2642437,-97.7364617,96,88,63
+"E 4th St, Austin, TX 78702, USA",UnknownHood,Austin,Travis County,78702,30.259124,-97.7215371,94,90,46
+"E 50th St, Austin, TX 78751, USA",UnknownHood,Austin,Travis County,78751,30.3118453,-97.7179348,79,99,51
+"E 51st St, Austin, TX 78751, USA",UnknownHood,Austin,Travis County,78751,30.3118858,-97.7148679,81,99,50
+"E 52nd St, Austin, TX 78723, USA",UnknownHood,Austin,Travis County,78723,30.3100118,-97.7088989,73,83,48
+"E 52nd St, Austin, TX 78751, USA",UnknownHood,Austin,Travis County,78751,30.3131175,-97.7152745,80,99,50
+"E 53rd St, Austin, TX 78751, USA",UnknownHood,Austin,Travis County,78751,30.3135011,-97.7138801,79,98,49
+"E 54th St, Austin, TX 78751, USA",North Loop,Austin,Travis County,78751,30.3163383,-97.7154753,74,98,50
+"E 56th St, Austin, TX 78751, USA",North Loop,Austin,Travis County,78751,30.3188544,-97.7145457,74,92,49
+"E 5th St., Austin, TX 78701, USA",UnknownHood,Austin,Travis County,78701,30.2651207,-97.7359853,96,81,62
+"E 5th St., Austin, TX 78702, USA",UnknownHood,Austin,Travis County,78702,30.2589422,-97.7179749,95,89,48
+"E 6th St, Austin, TX 78702, USA",UnknownHood,Austin,Travis County,78702,30.2623996,-97.7246722,96,91,45
+"E 7th St, Austin, TX 78701, USA",UnknownHood,Austin,Travis County,78701,30.2668713,-97.7348557,96,86,63
+"E 7th St, Austin, TX 78702, USA",UnknownHood,Austin,Travis County,78702,30.2614402,-97.7172262,96,90,48
+"E 8th St, Austin, TX 78702, USA",UnknownHood,Austin,Travis County,78702,30.2648313,-97.7256998,94,85,48
+"E 9th St, Austin, TX 78701, USA",UnknownHood,Austin,Travis County,78701,30.268984,-97.7350039,93,87,64
+"E 9th St, Austin, TX 78702, USA",UnknownHood,Austin,Travis County,78702,30.266357,-97.7271739,88,85,49
+"E Cesar Chavez St, Austin, TX 78702, USA",UnknownHood,Austin,Travis County,78702,30.2548046,-97.7180052,87,98,48
+"East Dr, Austin, TX 78705, USA",North University,Austin,Travis County,78705,30.2951742,-97.740519,95,82,65
+"East Side Dr, Austin, TX 78704, USA",Greater South River City,Austin,Travis County,78704,30.2397801,-97.7477358,80,72,49
+"E Elizabeth St, Austin, TX 78704, USA",Greater South River City,Austin,Travis County,78704,30.2485768,-97.7487728,93,92,55
+"W Gibson St, Austin, TX 78704, USA",UnknownHood,Austin,Travis County,78704,30.2522853,-97.7558337,83,80,56
+"Gibson St E, Austin, TX 78704, USA",Greater South River City,Austin,Travis County,78704,30.2497383,-97.7491728,93,92,55
+"Hunters Trace E, Austin, TX 78758, USA",North Austin Civic Association,Austin,Travis County,78758,30.3679499,-97.7093957,73,78,43
+"E Mary St, Austin, TX 78704, USA",Greater South River City,Austin,Travis County,78704,30.2445301,-97.7490953,94,85,52
+"E Milton St, Austin, TX 78704, USA",Greater South River City,Austin,Travis County,78704,30.246714,-97.749464,95,88,53
+"E Monroe St, Austin, TX 78704, USA",Greater South River City,Austin,Travis County,78704,30.2466086,-97.7458746,86,78,53
+"Ebony St, Austin, TX 78704, USA",Bouldin Creek,Austin,Travis County,78704,30.2567379,-97.7559607,77,87,58
+"Edgewood Ave, Austin, TX 78722, USA",Cherrywood,Austin,Travis County,78722,30.2893963,-97.7189278,72,90,57
+"Eilers Ave, Austin, TX 78751, USA",UnknownHood,Austin,Travis County,78751,30.3093052,-97.7197892,74,96,53
+"El Paso St, Austin, TX 78704, USA",Dawson,Austin,Travis County,78704,30.2356262,-97.7606489,81,74,49
+"Elkhart St, Austin, TX 78702, USA",Holly,Austin,Travis County,78702,30.2573305,-97.7222601,94,91,47
+"Ellingson Ln, Austin, TX 78751, USA",Central Austin,Austin,Travis County,78751,30.3030569,-97.7183951,86,86,52
+"Elm St, Austin, TX 78703, USA",Clarksville,Austin,Travis County,78703,30.279738,-97.7581407,89,92,48
+"Elmont Dr, Austin, TX 78741, USA",East Riverside - Oltorf,Austin,Travis County,78741,30.2391059,-97.7201472,73,85,56
+"Elmwood Pl, Austin, TX 78705, USA",Central Austin,Austin,Travis County,78705,30.2905858,-97.7334204,78,94,72
+"Embassy Dr, Austin, TX 78702, USA",Central East Austin,Austin,Travis County,78702,30.267631,-97.7321492,93,78,59
+"Emilie Ln, Austin, TX 78731, USA",UnknownHood,Austin,Travis County,78731,30.3104218,-97.7498477,83,82,47
+"Ethel St, Austin, TX 78704, USA",Zilker,Austin,Travis County,78704,30.2581105,-97.7634114,82,80,48
+"Euclid Ave, Austin, TX 78704, USA",UnknownHood,Austin,Travis County,78704,30.2397515,-97.7560852,92,74,50
+"Euneva St, Austin, TX 78702, USA",Rosewood,Austin,Travis County,78702,30.273359,-97.7078081,74,93,49
+"Eva St, Austin, TX 78704, USA",Bouldin Creek,Austin,Travis County,78704,30.2464275,-97.7521274,97,88,54
+"Evans Ave, Austin, TX 78751, USA",UnknownHood,Austin,Travis County,78751,30.3132536,-97.7193469,77,99,52
+"Evergreen Ave, Austin, TX 78704, USA",Zilker,Austin,Travis County,78704,30.250196,-97.7651591,84,77,48
+"Exmoor Dr, Austin, TX 78757, USA",Wooten,Austin,Travis County,78757,30.359799,-97.7283989,79,80,50
+"Fairfax Walk, Austin, TX 78705, USA",Central Austin,Austin,Travis County,78705,30.2930165,-97.7297745,76,91,68
+"Fairfield Dr, Austin, TX 78757, USA",UnknownHood,Austin,Travis County,78757,30.3604898,-97.7165046,81,80,47
+"Fairfield Ln, Austin, TX 78751, USA",Hyde Park,Austin,Travis County,78751,30.3103882,-97.720086,71,98,53
+"Fairwood Rd, Austin, TX 78722, USA",UnknownHood,Austin,Travis County,78722,30.3014769,-97.7116823,72,73,49
+"Falmouth Dr, Austin, TX 78757, USA",Wooten,Austin,Travis County,78757,30.3588224,-97.7277173,79,79,50
+"Ferdinand St, Austin, TX 78702, USA",Chestnut,Austin,Travis County,78702,30.2796342,-97.718457,83,86,54
+"Fernwood Rd, Austin, TX 78722, USA",UnknownHood,Austin,Travis County,78722,30.3017632,-97.7133834,71,74,50
+"Fletcher St, Austin, TX 78704, USA",Bouldin Creek,Austin,Travis County,78704,30.2433162,-97.758454,94,71,51
+"Flores St, Austin, TX 78702, USA",East Cesar Chavez,Austin,Travis County,78702,30.2537425,-97.7362365,77,94,50
+"Fontana Dr, Austin, TX 78704, USA",Dawson,Austin,Travis County,78704,30.2331328,-97.761287,79,74,49
+"Ford St, Austin, TX 78704, USA",Zilker,Austin,Travis County,78704,30.2538595,-97.7729656,82,90,44
+"Forest Ave, Austin, TX 78704, USA",UnknownHood,Austin,Travis County,78704,30.2405024,-97.756495,92,74,50
+"Fort View Rd, Austin, TX 78704, USA",South Lamar,Austin,Travis County,78704,30.2304286,-97.7864472,77,79,54
+"Foster Ave, Austin, TX 78703, USA",Westfield,Austin,Travis County,78703,30.2772661,-97.7721777,71,75,41
+"Foster Ln, Austin, TX 78757, USA",Allandale,Austin,Travis County,78757,30.3584044,-97.740193,77,86,49
+"Francis Ave, Austin, TX 78703, USA",Clarksville,Austin,Travis County,78703,30.2774455,-97.7653481,77,82,42
+"Frazier Ave, Austin, TX 78704, USA",Zilker,Austin,Travis County,78704,30.2493564,-97.7748635,88,86,46
+"Frederick St, Austin, TX 78704, USA",Dawson,Austin,Travis County,78704,30.230753,-97.7606168,74,71,49
+"French Pl, Austin, TX 78722, USA",Cherrywood,Austin,Travis County,78722,30.2868772,-97.7192524,76,94,58
+"Frontier Trail, Austin, TX 78745, USA",South Austin,Austin,Travis County,78745,30.2281693,-97.7943119,71,80,54
+"Fruth St, Austin, TX 78705, USA",North University,Austin,Travis County,78705,30.2968258,-97.7406673,95,91,64
+"Galewood Dr, Austin, TX 78758, USA",North Austin Civic Association,Austin,Travis County,78758,30.3670635,-97.7152819,73,73,45
+"Garden St, Austin, TX 78702, USA",East Austin,Austin,Travis County,78702,30.2546488,-97.7267181,89,97,47
+"Garner Ave, Austin, TX 78704, USA",Zilker,Austin,Travis County,78704,30.2570171,-97.7675377,76,81,46
+"Garwood St, Austin, TX 78702, USA",Govalle,Austin,Travis County,78702,30.2604349,-97.7071026,83,97,47
+"Gathright Cove, Austin, TX 78704, USA",South Lamar,Austin,Travis County,78704,30.232287,-97.7877346,75,79,55
+"Gault St, Austin, TX 78757, USA",UnknownHood,Austin,Travis County,78757,30.3501993,-97.7186116,74,83,54
+"Gaylor St, Austin, TX 78752, USA",Highland,Austin,Travis County,78752,30.3336381,-97.7195086,82,96,57
+"Gem Cir, Austin, TX 78704, USA",Dawson,Austin,Travis County,78704,30.2339602,-97.7592581,76,72,49
+"Georgian St, Austin, TX 78756, USA",Brentwood,Austin,Travis County,78756,30.3216864,-97.7363688,83,81,55
+"Givens Ave, Austin, TX 78722, USA",East Austin,Austin,Travis County,78722,30.281524,-97.7155906,79,85,54
+"Glen Allen St, Austin, TX 78704, USA",South Lamar,Austin,Travis County,78704,30.2409032,-97.7815457,76,76,46
+"Glencrest Dr, Austin, TX 78723, USA",Windsor Park,Austin,Travis County,78723,30.3182188,-97.69414,72,75,45
+"Glenvalley Dr, Austin, TX 78723, USA",Windsor Park,Austin,Travis County,78723,30.3167495,-97.6923377,73,81,45
+"Glenview Ave, Austin, TX 78703, USA",Old West Austin,Austin,Travis County,78703,30.3041131,-97.7531676,81,90,45
+"Glenwood Dr, Austin, TX 78723, USA",Windsor Park,Austin,Travis County,78723,30.3196197,-97.6962089,75,73,45
+"Gonzales St, Austin, TX 78702, USA",Govalle,Austin,Travis County,78702,30.2585645,-97.7046954,79,97,49
+"Goodnight Ln, Austin, TX 78757, USA",Brentwood,Austin,Travis County,78757,30.3376212,-97.7338326,77,85,49
+"Goodrich Ave, Austin, TX 78704, USA",UnknownHood,Austin,Travis County,78704,30.2502313,-97.7723863,86,87,46
+"Govalle Ave, Austin, TX 78702, USA",Govalle,Austin,Travis County,78702,30.2660111,-97.7021915,73,87,47
+"Graham Pl, Austin, TX 78705, USA",Central Austin,Austin,Travis County,78705,30.2900202,-97.7452949,94,98,65
+"Graham St, Austin, TX 78702, USA",Rosewood,Austin,Travis County,78702,30.2736197,-97.7103309,75,90,49
+"Grandview St, Austin, TX 78705, USA",Central Austin,Austin,Travis County,78705,30.3009805,-97.7444436,92,91,58
+"Grayson Ln, Austin, TX 78722, USA",Cherrywood,Austin,Travis County,78722,30.289456,-97.708787,76,89,50
+"Great Hills Trl, Austin, TX 78759, USA",UnknownHood,Austin,Travis County,78759,30.3941286,-97.7496856,72,75,35
+"Gregory St, Austin, TX 78702, USA",Blackshear-Prospect Hill,Austin,Travis County,78702,30.2678062,-97.7221188,90,90,
+"Griffith St, Austin, TX 78705, USA",North University,Austin,Travis County,78705,30.299544,-97.7330529,73,100,
+"Grooms St, Austin, TX 78705, USA",North University,Austin,Travis County,78705,30.2971012,-97.7338505,78,91,
+"Grover Ave, Austin, TX 78757, USA",UnknownHood,Austin,Travis County,78757,30.338453,-97.7242674,74,89,
+"Guadalupe St, Austin, TX 78752, USA",UnknownHood,Austin,Travis County,78752,30.3075056,-97.7351387,82,98,
+"Gunter St, Austin, TX 78702, USA",UnknownHood,Austin,Travis County,78702,30.2648512,-97.6989103,71,88,
+"Gunter St, Austin, TX 78721, USA",UnknownHood,Austin,Travis County,78721,30.2648512,-97.6989103,71,88,
+"Hackberry St, Austin, TX 78702, USA",Central East Austin,Austin,Travis County,78702,30.2699954,-97.7259127,88,93,
+"Half Penny Rd, Austin, TX 78722, USA",Cherrywood,Austin,Travis County,78722,30.291905,-97.7124175,75,81,
+"Hamilton Ave, Austin, TX 78702, USA",Blackshear-Prospect Hill,Austin,Travis County,78702,30.2671734,-97.7186183,88,90,
+"Hammack Dr, Austin, TX 78752, USA",Highland,Austin,Travis County,78752,30.3296561,-97.7199279,75,97,
+"Hampton Rd, Austin, TX 78705, USA",Central Austin,Austin,Travis County,78705,30.2922051,-97.7277619,78,92,
+"Happy Hollow Ln, Austin, TX 78703, USA",Bryker Woods,Austin,Travis County,78703,30.3082746,-97.7554979,79,84,
+"Hardeman St, Austin, TX 78704, USA",Dawson,Austin,Travis County,78704,30.2344133,-97.7588722,76,72,
+"Hardy Cir, Austin, TX 78757, USA",Crestview,Austin,Travis County,78757,30.3472126,-97.7331088,79,85,
+"Hardy Dr, Austin, TX 78757, USA",UnknownHood,Austin,Travis County,78757,30.3482103,-97.7315051,77,86,
+"Hargrave St, Austin, TX 78702, USA",Rosewood,Austin,Travis County,78702,30.272177,-97.7097699,73,87,
+"Harmon Ave, Austin, TX 78705, USA",UnknownHood,Austin,Travis County,78705,30.293178,-97.7220291,79,92,
+"Harmon Ave, Austin, TX 78751, USA",UnknownHood,Austin,Travis County,78751,30.3046887,-97.7156085,86,83,
+"Harriet Ct, Austin, TX 78756, USA",Brentwood,Austin,Travis County,78756,30.3231618,-97.7357422,77,83,
+"Harris Ave, Austin, TX 78705, USA",Central Austin,Austin,Travis County,78705,30.2946255,-97.7285162,74,88,
+"Harris Park Ave, Austin, TX 78705, USA",Central Austin,Austin,Travis County,78705,30.2920712,-97.7315334,77,93,
+"Hart Ln, Austin, TX 78731, USA",UnknownHood,Austin,Travis County,78731,30.355931,-97.7559293,76,75,
+"Harthan St, Austin, TX 78703, USA",UnknownHood,Austin,Travis County,78703,30.2736691,-97.7575522,95,84,
+"Harvard St, Austin, TX 78702, USA",Blackshear-Prospect Hill,Austin,Travis County,78702,30.2652693,-97.7149132,83,77,
+"Harvey St, Austin, TX 78702, USA",East Austin,Austin,Travis County,78702,30.278215,-97.7047319,77,98,
+"Haskell St, Austin, TX 78702, USA",East Austin,Austin,Travis County,78702,30.2529108,-97.7276902,80,97,
+"Hathaway Dr, Austin, TX 78757, USA",Wooten,Austin,Travis County,78757,30.36555,-97.7262953,71,75,
+"Havana St, Austin, TX 78704, USA",Dawson,Austin,Travis County,78704,30.2329315,-97.7613833,79,74,
+"Haywood Ave, Austin, TX 78704, USA",Bouldin Creek,Austin,Travis County,78704,30.2577332,-97.7483506,82,98,
+"Hearn St, Austin, TX 78703, USA",Westfield,Austin,Travis County,78703,30.2797196,-97.7724139,72,74,
+"Helen St, Austin, TX 78751, USA",North Loop,Austin,Travis County,78751,30.3154521,-97.7123772,76,96,
+"Helms St, Austin, TX 78705, USA",North University,Austin,Travis County,78705,30.2970487,-97.7350434,84,93,
+"Hemlock Ave, Austin, TX 78722, USA",Cherrywood,Austin,Travis County,78722,30.2877087,-97.7150058,76,86,
+"Hemphill Park, Austin, TX 78705, USA",North University,Austin,Travis County,78705,30.2960454,-97.7399047,95,82,
+"Hether St, Austin, TX 78704, USA",Zilker,Austin,Travis County,78704,30.2511885,-97.7705852,88,87,
+"Hidalgo St, Austin, TX 78702, USA",East Austin,Austin,Travis County,78702,30.2590823,-97.7123211,93,95,
+"Highland Ave, Austin, TX 78703, USA",UnknownHood,Austin,Travis County,78703,30.2757333,-97.7606763,86,84,
+"Hillcrest Dr, Austin, TX 78723, USA",Windsor Park,Austin,Travis County,78723,30.3177154,-97.6960812,72,74,
+"Hillmont St, Austin, TX 78704, USA",Zilker,Austin,Travis County,78704,30.2601338,-97.7604597,82,78,
+"Hillside Ave, Austin, TX 78704, USA",Greater South River City,Austin,Travis County,78704,30.2510377,-97.7456381,82,89,
+"Hilwin Cir, Austin, TX 78756, USA",Rosedale,Austin,Travis County,78756,30.3207765,-97.744962,72,81,
+"William Holland Ave, Austin, TX 78756, USA",Brentwood,Austin,Travis County,78756,30.3280455,-97.7380575,84,86,
+"Holly St, Austin, TX 78702, USA",East Austin,Austin,Travis County,78702,30.2542012,-97.728284,80,97,
+"Hollywood Ave, Austin, TX 78722, USA",Cherrywood,Austin,Travis County,78722,30.2920276,-97.7190931,76,83,
+"Holmes Ct, Austin, TX 78702, USA",Rosewood,Austin,Travis County,78702,30.2729974,-97.7111184,71,94,
+"Holton St, Austin, TX 78702, USA",Govalle,Austin,Travis County,78702,30.257671,-97.706029,78,98,
+"Home Ln, Austin, TX 78705, USA",North University,Austin,Travis County,78705,30.300098,-97.7360177,85,100,
+"Huisache St, Austin, TX 78751, USA",North Loop,Austin,Travis County,78751,30.3199086,-97.7289537,73,90,
+"Inks Ave, Austin, TX 78702, USA",Central East Austin,Austin,Travis County,78702,30.2659383,-97.7278076,95,83,
+"Inner Campus Drive, Austin, TX 78712, USA",University of Texas at Austin,Austin,Travis County,78712,30.2858491,-97.7379571,88,80,
+"Inner Campus Drive, Austin, TX 78705, USA",University of Texas at Austin,Austin,Travis County,78705,30.2858491,-97.7379571,88,80,
+"Irma Dr, Austin, TX 78752, USA",Highland,Austin,Travis County,78752,30.3311241,-97.7190248,79,97,
+"Isabelle Dr, Austin, TX 78752, USA",Highland,Austin,Travis County,78752,30.3334695,-97.7136404,73,93,
+"Iva Ln, Austin, TX 78704, USA",South Lamar,Austin,Travis County,78704,30.246484,-97.773489,83,76,
+"Jefferson St, Austin, TX 78731, USA",UnknownHood,Austin,Travis County,78731,30.3091451,-97.750643,87,86,
+"Jennie Ave, Austin, TX 78703, USA",Clarksville,Austin,Travis County,78703,30.2785642,-97.7648366,74,84,
+"Jessie St, Austin, TX 78704, USA",Zilker,Austin,Travis County,78704,30.2600311,-97.7608757,82,78,
+"Jester Cir, Austin, TX 78712, USA",University of Texas at Austin,Austin,Travis County,78712,30.2815188,-97.7359036,80,90,
+"Jewell St, Austin, TX 78704, USA",Bouldin Creek,Austin,Travis County,78704,30.251439,-97.7583945,80,79,
+"Jim Hogg Ave, Austin, TX 78756, USA",Brentwood,Austin,Travis County,78756,30.327473,-97.7368565,79,84,
+"Joe Sayers Ave, Austin, TX 78756, USA",Brentwood,Austin,Travis County,78756,30.3268973,-97.735659,77,78,
+"Jollyville Rd, Austin, TX 78759, USA",UnknownHood,Austin,Travis County,78759,30.4065779,-97.7478949,77,74,
+"Josephine St, Austin, TX 78704, USA",Zilker,Austin,Travis County,78704,30.2592666,-97.7602411,84,73,
+"Julian Teran St, Austin, TX 78702, USA",Holly,Austin,Travis County,78702,30.257268,-97.7166529,92,92,
+"Juliet St, Austin, TX 78704, USA",Zilker,Austin,Travis County,78704,30.2588925,-97.7629489,78,78,
+"Julius St, Austin, TX 78702, USA",Holly,Austin,Travis County,78702,30.252389,-97.717123,78,90,
+"Juniper St, Austin, TX 78702, USA",Central East Austin,Austin,Travis County,78702,30.2699974,-97.7293705,89,85,
+"Kamar Dr, Austin, TX 78757, USA",Wooten,Austin,Travis County,78757,30.3567772,-97.7185518,74,73,
+"Kawnee Dr, Austin, TX 78752, USA",Highland,Austin,Travis County,78752,30.3366677,-97.7156064,82,95,
+"Keasbey St, Austin, TX 78751, USA",Central Austin,Austin,Travis County,78751,30.304683,-97.721445,81,88,
+"Keats Dr, Austin, TX 78704, USA",South Lamar,Austin,Travis County,78704,30.2358831,-97.7873618,74,76,
+"Keith Ln, Austin, TX 78705, USA",Central Austin,Austin,Travis County,78705,30.2914707,-97.725687,78,90,
+"Kenbridge Dr, Austin, TX 78757, USA",Wooten,Austin,Travis County,78757,30.3598476,-97.7258448,74,76,
+"Kenniston Dr, Austin, TX 78752, USA",Highland,Austin,Travis County,78752,30.3344935,-97.7158224,82,96,
+"Kerbey Ln, Austin, TX 78703, USA",UnknownHood,Austin,Travis County,78703,30.3036354,-97.752537,77,88,
+"Kern Ramble St, Austin, TX 78722, USA",Cherrywood,Austin,Travis County,78722,30.2897658,-97.7159987,72,82,
+"Kim Ln, Austin, TX 78705, USA",Central Austin,Austin,Travis County,78705,30.2914696,-97.7242915,78,90,
+"Kimble Cove, Austin, TX 78757, USA",Wooten,Austin,Travis County,78757,30.3611034,-97.7217151,76,74,
+"Kings Ln, Austin, TX 78705, USA",Central Austin,Austin,Travis County,78705,30.3002021,-97.7428064,93,99,
+"Kingsbury St, Austin, TX 78703, USA",Old West Austin,Austin,Travis County,78703,30.281376,-97.7528268,71,74,
+"Kingwood Cove, Austin, TX 78757, USA",Wooten,Austin,Travis County,78757,30.3577081,-97.7227758,73,72,
+"Kinney Ave, Austin, TX 78704, USA",UnknownHood,Austin,Travis County,78704,30.2505702,-97.7693034,88,87,
+"Kinney Rd, Austin, TX 78704, USA",South Lamar,Austin,Travis County,78704,30.245846,-97.773892,85,83,
+"Kiowa Pass, Austin, TX 78745, USA",South Austin,Austin,Travis County,78745,30.2272931,-97.7993845,75,75,
+"Kirk Ave, Austin, TX 78702, USA",UnknownHood,Austin,Travis County,78702,30.265655,-97.6968402,73,86,
+"Kirkwood Rd, Austin, TX 78722, USA",Cherrywood,Austin,Travis County,78722,30.2950694,-97.7148029,73,79,
+"Knight Cir, Austin, TX 78723, USA",Windsor Park,Austin,Travis County,78723,30.3062926,-97.6983477,75,72,
+"Kromer St, Austin, TX 78757, USA",Wooten,Austin,Travis County,78757,30.35878,-97.7185805,76,77,
+"La Casa Dr, Austin, TX 78704, USA",UnknownHood,Austin,Travis County,78704,30.2481426,-97.7811483,80,78,
+"La Mesa Dr, Austin, TX 78704, USA",Dawson,Austin,Travis County,78704,30.2363974,-97.7610218,84,74,
+"La Vista St, Austin, TX 78704, USA",Dawson,Austin,Travis County,78704,30.2326998,-97.7589265,82,73,
+"Lafayette Ave, Austin, TX 78722, USA",East Austin,Austin,Travis County,78722,30.2887719,-97.7193417,72,90,
+"Laird Dr, Austin, TX 78756, USA",Brentwood,Austin,Travis County,78756,30.3351096,-97.7384966,89,82,
+"Lamar Pl, Austin, TX 78752, USA",Highland,Austin,Travis County,78752,30.3312997,-97.7221554,81,93,
+"Lamar Square Dr, Austin, TX 78704, USA",Zilker,Austin,Travis County,78704,30.2546751,-97.7635065,77,74,
+"Lambie St, Austin, TX 78701, USA",UnknownHood,Austin,Travis County,78701,30.2559018,-97.7365093,86,96,
+"Lambie St, Austin, TX 78702, USA",UnknownHood,Austin,Travis County,78702,30.2559018,-97.7365093,86,96,
+"Lamplight Village Cir, Austin, TX 78727, USA",Lamplight Village,Austin,Travis County,78727,30.4167985,-97.6959505,73,73,
+"Lancaster Dr, Austin, TX 78723, USA",Mueller,Austin,Travis County,78723,30.3054619,-97.7077932,81,79,
+"Landon Ln, Austin, TX 78705, USA",Central Austin,Austin,Travis County,78705,30.2938969,-97.7294981,71,92,
+"Lanier Dr, Austin, TX 78757, USA",Wooten,Austin,Travis County,78757,30.360934,-97.7264058,71,77,
+"Larkspur Rd, Austin, TX 78758, USA",North Austin Civic Association,Austin,Travis County,78758,30.3582427,-97.7125828,74,71,
+"Larry Ln, Austin, TX 78722, USA",Cherrywood,Austin,Travis County,78722,30.2870718,-97.7133879,81,85,
+"Laurel Ln, Austin, TX 78705, USA",North University,Austin,Travis County,78705,30.2966102,-97.7376951,87,95,
+"Lawnmont Ave, Austin, TX 78756, USA",UnknownHood,Austin,Travis County,78756,30.3280296,-97.7427006,75,90,
+"Lawson Ln, Austin, TX 78702, USA",Central East Austin,Austin,Travis County,78702,30.268528,-97.7222631,90,90,
+"Lazy Ln, Austin, TX 78757, USA",UnknownHood,Austin,Travis County,78757,30.3528806,-97.7190665,71,80,
+"Le Grande Ave, Austin, TX 78704, USA",Greater South River City,Austin,Travis County,78704,30.2529637,-97.7448465,76,89,
+"Lee Barton Dr, Austin, TX 78704, USA",Zilker,Austin,Travis County,78704,30.2621377,-97.7574112,86,91,
+"Leon St, Austin, TX 78705, USA",Central Austin,Austin,Travis County,78705,30.2882597,-97.7493435,91,94,
+"Leona St, Austin, TX 78702, USA",East Austin,Austin,Travis County,78702,30.2769971,-97.7226436,85,88,
+"Leona St, Austin, TX 78722, USA",East Austin,Austin,Travis County,78722,30.2824564,-97.723827,77,92,
+"Leonard St, Austin, TX 78705, USA",Central Austin,Austin,Travis County,78705,30.290063,-97.7306333,76,89,
+"Lewis Ln, Austin, TX 78756, USA",Rosedale,Austin,Travis County,78756,30.3103998,-97.743739,88,94,
+"Liberty St, Austin, TX 78705, USA",Central Austin,Austin,Travis County,78705,30.295596,-97.7305766,71,91,
+"Lincoln St, Austin, TX 78702, USA",Blackshear-Prospect Hill,Austin,Travis County,78702,30.2651936,-97.7195208,90,85,
+"Lindell Ave, Austin, TX 78704, USA",Bouldin Creek,Austin,Travis County,78704,30.2416453,-97.7532841,93,86,
+"Linden St, Austin, TX 78702, USA",Govalle,Austin,Travis County,78702,30.263218,-97.705882,71,94,
+"Linscomb Ave, Austin, TX 78704, USA",Zilker,Austin,Travis County,78704,30.2611745,-97.7649065,75,83,
+"Lipscomb St, Austin, TX 78705, USA",North University,Austin,Travis County,78705,30.2976722,-97.7374077,87,95,
+"Llano St, Austin, TX 78702, USA",Holly,Austin,Travis County,78702,30.2525412,-97.7145466,75,92,
+"Lockhart Dr, Austin, TX 78704, USA",Greater South River City,Austin,Travis County,78704,30.2434545,-97.7477168,84,74,
+"Lodge Ct, Austin, TX 78758, USA",North Austin Civic Association,Austin,Travis County,78758,30.3658534,-97.7106759,72,80,
+"Logwood Dr, Austin, TX 78757, USA",North Shoal Creek,Austin,Travis County,78757,30.3628498,-97.7331184,75,86,
+"Lone Oak Dr, Austin, TX 78704, USA",Greater South River City,Austin,Travis County,78704,30.2395253,-97.7493743,85,73,
+"Long Bow Ln, Austin, TX 78704, USA",Greater South River City,Austin,Travis County,78704,30.2354148,-97.7517113,80,72,
+"Longview St, Austin, TX 78705, USA",Central Austin,Austin,Travis County,78705,30.2883878,-97.7508479,87,82,
+"Lorrain St, Austin, TX 78703, USA",UnknownHood,Austin,Travis County,78703,30.279805,-97.7557151,84,92,
+"Lovingood Dr, Austin, TX 78721, USA",MLK,Austin,Travis County,78721,30.2808727,-97.7022207,74,97,
+"Lullwood Rd, Austin, TX 78722, USA",Cherrywood,Austin,Travis County,78722,30.297212,-97.7132781,80,76,
+"Luther Ln, Austin, TX 78705, USA",Central Austin,Austin,Travis County,78705,30.2926947,-97.7234801,80,92,
+"Lydia St, Austin, TX 78702, USA",East Austin,Austin,Travis County,78702,30.2673678,-97.7282864,93,87,
+"Lyman Pl, Austin, TX 78756, USA",Brentwood,Austin,Travis County,78756,30.3221611,-97.7362769,84,84,
+"Lynn St, Austin, TX 78702, USA",Holly,Austin,Travis County,78702,30.2535236,-97.7247768,85,98,
+"Lynndale Dr, Austin, TX 78756, USA",Brentwood,Austin,Travis County,78756,30.3201207,-97.7371805,82,78,
+"Lynnwood St, Austin, TX 78756, USA",Rosedale,Austin,Travis County,78756,30.3220391,-97.740458,81,86,
+"Lyons Rd, Austin, TX 78702, USA",Govalle,Austin,Travis County,78702,30.261903,-97.7022329,74,89,
+"Mahone Ave, Austin, TX 78757, USA",Wooten,Austin,Travis County,78757,30.3577174,-97.7293997,87,80,
+"Maiden Ln, Austin, TX 78705, USA",Central Austin,Austin,Travis County,78705,30.3018869,-97.7396291,93,99,
+"Maldon Pl, Austin, TX 78722, USA",East Austin,Austin,Travis County,78722,30.2835014,-97.7160315,86,85,
+"Mansell Ave, Austin, TX 78721, USA",UnknownHood,Austin,Travis County,78721,30.2611228,-97.6960923,73,82,
+"Maplewood Ave, Austin, TX 78722, USA",Cherrywood,Austin,Travis County,78722,30.2940877,-97.7132869,77,78,
+"Marathon Blvd, Austin, TX 78756, USA",Rosedale,Austin,Travis County,78756,30.3108389,-97.7408022,89,94,
+"Marcell St, Austin, TX 78752, USA",Highland,Austin,Travis County,78752,30.3391042,-97.7149968,80,89,
+"Margaret St, Austin, TX 78704, USA",Zilker,Austin,Travis County,78704,30.256939,-97.7669505,76,81,
+"Marshall Ln, Austin, TX 78703, USA",UnknownHood,Austin,Travis County,78703,30.2812029,-97.756523,85,93,
+"Martin Ave, Austin, TX 78751, USA",UnknownHood,Austin,Travis County,78751,30.3166038,-97.7160434,74,98,
+"W Mary St, Austin, TX 78704, USA",UnknownHood,Austin,Travis County,78704,30.2474142,-97.7592353,90,78,
+"Matamoros St, Austin, TX 78702, USA",Holly,Austin,Travis County,78702,30.258048,-97.7183836,93,91,
+"Maude St, Austin, TX 78702, USA",Govalle,Austin,Travis County,78702,30.2634239,-97.708794,80,93,
+"Maufrais St, Austin, TX 78703, USA",Clarksville,Austin,Travis County,78703,30.2781822,-97.7574891,89,87,
+"Maybelle Ave, Austin, TX 78756, USA",Rosedale,Austin,Travis County,78756,30.313646,-97.7413775,86,87,
+"McCarthy Cir, Austin, TX 78756, USA",Brentwood,Austin,Travis County,78756,30.3314891,-97.7353181,83,83,
+"McKinley Ave, Austin, TX 78702, USA",East Austin,Austin,Travis County,78702,30.2795823,-97.7029517,74,99,
+"Meadowridge Dr, Austin, TX 78704, USA",Zilker,Austin,Travis County,78704,30.2503734,-97.7761714,82,84,
+"Medical Arts St, Austin, TX 78705, USA",UnknownHood,Austin,Travis County,78705,30.2891857,-97.7285238,80,89,
+"Medina St, Austin, TX 78702, USA",East Austin,Austin,Travis County,78702,30.2629342,-97.7323553,95,95,
+"Melissa Ln, Austin, TX 78704, USA",Greater South River City,Austin,Travis County,78704,30.252799,-97.7459585,77,82,
+"Merle Dr, Austin, TX 78745, USA",South Austin,Austin,Travis County,78745,30.2277099,-97.7882697,79,80,
+"Merrie Lynn Ave, Austin, TX 78722, USA",Cherrywood,Austin,Travis County,78722,30.2867203,-97.7123352,81,85,
+"Milburn Ln, Austin, TX 78702, USA",Govalle,Austin,Travis County,78702,30.2587949,-97.6984651,72,83,
+"Mildred St, Austin, TX 78702, USA",Holly,Austin,Travis County,78702,30.2539217,-97.7200442,87,98,
+"Mill St, Austin, TX 78702, USA",Blackshear-Prospect Hill,Austin,Travis County,78702,30.26361,-97.7189021,92,76,
+"Mills Ave, Austin, TX 78731, USA",Old West Austin,Austin,Travis County,78731,30.3060883,-97.7493938,89,84,
+"Modesto St, Austin, TX 78757, USA",Brentwood,Austin,Travis County,78757,30.3429218,-97.7359638,72,82,
+"Montclaire St, Austin, TX 78704, USA",UnknownHood,Austin,Travis County,78704,30.2485166,-97.7799967,74,78,
+"Montview St, Austin, TX 78756, USA",Allandale,Austin,Travis County,78756,30.3300269,-97.7414159,82,85,
+"Moore Blvd, Austin, TX 78705, USA",North University,Austin,Travis County,78705,30.294774,-97.734905,81,88,
+"Morelos St, Austin, TX 78702, USA",Blackshear-Prospect Hill,Austin,Travis County,78702,30.2615476,-97.7160459,95,90,
+"Mullen Dr, Austin, TX 78757, USA",UnknownHood,Austin,Travis County,78757,30.3538065,-97.7260031,87,80,
+"Muroc St, Austin, TX 78757, USA",Brentwood,Austin,Travis County,78757,30.3443158,-97.7361771,75,83,
+"Murray Ln, Austin, TX 78703, USA",Old West Austin,Austin,Travis County,78703,30.2835864,-97.7568508,75,93,
+"Music Ln, Austin, TX 78704, USA",Greater South River City,Austin,Travis County,78704,30.2525884,-97.7479879,86,83,
+"Myrtle St, Austin, TX 78702, USA",Central East Austin,Austin,Travis County,78702,30.2701154,-97.7278662,89,91,
+"Nash Ave, Austin, TX 78704, USA",Zilker,Austin,Travis County,78704,30.2524889,-97.769134,86,87,
+"Navajo Path, Austin, TX 78745, USA",South Austin,Austin,Travis County,78745,30.2284215,-97.7966966,71,72,
+"Navasota St, Austin, TX 78702, USA",East Austin,Austin,Travis County,78702,30.2641801,-97.7282821,95,84,
+"Neches St, Austin, TX 78701, USA",Downtown Austin,Austin,Travis County,78701,30.268639,-97.737563,92,84,
+"Nellie St, Austin, TX 78704, USA",Bouldin Creek,Austin,Travis County,78704,30.2519915,-97.7494886,89,86,
+"Nelson St, Austin, TX 78703, USA",Clarksville,Austin,Travis County,78703,30.2753334,-97.7571218,91,80,
+"Nevada Path, Austin, TX 78745, USA",South Austin,Austin,Travis County,78745,30.227608,-97.7931821,72,77,
+"New York Ave, Austin, TX 78702, USA",East Austin,Austin,Travis County,78702,30.2727534,-97.7196852,87,91,
+"New York Dr, Austin, TX 78702, USA",Rosewood,Austin,Travis County,78702,30.2739857,-97.71262,77,89,
+"Newning Ave, Austin, TX 78704, USA",Greater South River City,Austin,Travis County,78704,30.2477491,-97.7461027,85,83,
+"Newton St, Austin, TX 78704, USA",Bouldin Creek,Austin,Travis County,78704,30.2476607,-97.752857,96,85,
+"Nickerson St, Austin, TX 78704, USA",Greater South River City,Austin,Travis County,78704,30.2457785,-97.7498114,96,89,
+"N Lamar Blvd Service Rd, Austin, TX 78703, USA",UnknownHood,Austin,Travis County,78703,30.2696846,-97.7547156,97,92,
+"N Lamar Blvd, Austin, TX 78703, USA",UnknownHood,Austin,Travis County,78703,30.2835867,-97.7521223,77,82,
+"N Plains Ave, Austin, TX 78757, USA",Wooten,Austin,Travis County,78757,30.3561501,-97.7289538,90,79,
+"N Pleasant Valley Rd, Austin, TX 78702, USA",UnknownHood,Austin,Travis County,78702,30.2605663,-97.7092733,88,97,
+"North St, Austin, TX 78756, USA",Brentwood,Austin,Travis County,78756,30.3224742,-97.7369009,84,84,
+"Northcross Dr, Austin, TX 78757, USA",UnknownHood,Austin,Travis County,78757,30.3551361,-97.7362749,79,80,
+"Northwestern Ave, Austin, TX 78702, USA",East Austin,Austin,Travis County,78702,30.2660497,-97.7140117,83,77,
+"Nueces St, Austin, TX 78701, USA",UnknownHood,Austin,Travis County,78701,30.2794504,-97.7448033,95,97,
+"Oak Grove Ave, Austin, TX 78702, USA",Rosewood,Austin,Travis County,78702,30.2751332,-97.703484,76,77,
+"Oakhaven Cir, Austin, TX 78704, USA",Barton Hills,Austin,Travis County,78704,30.2479827,-97.7841049,72,77,
+"Oak Haven Dr, Austin, TX 78704, USA",Barton Hills,Austin,Travis County,78704,30.2479713,-97.7844919,71,76,
+"Oak Park Dr, Austin, TX 78704, USA",Barton Hills,Austin,Travis County,78704,30.2480716,-97.7856369,71,76,
+"Oakhurst Ave, Austin, TX 78703, USA",Old West Austin,Austin,Travis County,78703,30.2993591,-97.7512675,76,88,
+"Oakland Ave, Austin, TX 78703, USA",UnknownHood,Austin,Travis County,78703,30.274891,-97.760498,89,84,
+"Oaklawn Ave, Austin, TX 78722, USA",East Austin,Austin,Travis County,78722,30.2839722,-97.714602,83,84,
+"Oakmont Blvd, Austin, TX 78703, USA",UnknownHood,Austin,Travis County,78703,30.3113763,-97.7537229,71,84,
+"Old Koenig Ln, Austin, TX 78752, USA",Brentwood,Austin,Travis County,78752,30.3284656,-97.7265293,73,74,
+"Red River St, Austin, TX 78751, USA",UnknownHood,Austin,Travis County,78751,30.3021867,-97.7211971,82,88,
+"Old W 19th St, Austin, TX 78705, USA",UnknownHood,Austin,Travis County,78705,30.2847263,-97.752518,76,73,
+"Old W 38th St, Austin, TX 78731, USA",UnknownHood,Austin,Travis County,78731,30.3081462,-97.7494329,90,84,
+"Olive St, Austin, TX 78702, USA",Central East Austin,Austin,Travis County,78702,30.2708548,-97.7296456,83,81,
+"Onion St, Austin, TX 78702, USA",East Austin,Austin,Travis County,78702,30.2624883,-97.7279475,95,91,
+"Orangewood Cir, Austin, TX 78757, USA",Allandale,Austin,Travis County,78757,30.3578195,-97.7401442,77,86,
+"Orchard St, Austin, TX 78703, USA",UnknownHood,Austin,Travis County,78703,30.271431,-97.7595449,91,85,
+"Owen Ave, Austin, TX 78705, USA",Central Austin,Austin,Travis County,78705,30.3012247,-97.7449569,92,91,
+"Owen Cir, Austin, TX 78705, USA",Central Austin,Austin,Travis County,78705,30.3030443,-97.7436718,88,99,
+"Oxford Ave, Austin, TX 78704, USA",Zilker,Austin,Travis County,78704,30.2509657,-97.7701471,88,87,
+"Pace St, Austin, TX 78702, USA",Holly,Austin,Travis County,78702,30.256298,-97.7118368,88,98,
+"Pack Saddle Pass, Austin, TX 78745, USA",South Austin,Austin,Travis County,78745,30.2279977,-97.7965812,71,72,
+"Palma Plaza, Austin, TX 78703, USA",Clarksville,Austin,Travis County,78703,30.2824009,-97.7604773,78,83,
+"Pampa Dr, Austin, TX 78752, USA",Highland,Austin,Travis County,78752,30.3332055,-97.7154061,78,97,
+"Panther Trail, Austin, TX 78704, USA",South Lamar,Austin,Travis County,78704,30.2379113,-97.7880929,73,77,
+"Paramount Ave, Austin, TX 78704, USA",Zilker,Austin,Travis County,78704,30.2506257,-97.7785314,74,81,
+"Park Blvd, Austin, TX 78751, USA",Central Austin,Austin,Travis County,78751,30.3026036,-97.7239538,76,83,
+"Park Ln, Austin, TX 78704, USA",Greater South River City,Austin,Travis County,78704,30.2487262,-97.7470463,90,91,
+"Park Pl, Austin, TX 78705, USA",Central Austin,Austin,Travis County,78705,30.289417,-97.7330347,76,86,
+"Parkdale Cove, Austin, TX 78757, USA",North Shoal Creek,Austin,Travis County,78757,30.3632753,-97.731505,77,82,
+"Parkdale Dr, Austin, TX 78757, USA",North Shoal Creek,Austin,Travis County,78757,30.3616841,-97.7328207,78,87,
+"Parker Ln & Shore District Dr, Austin, TX 78741, USA",East Riverside - Oltorf,Austin,Travis County,78741,30.2432146,-97.7292123,80,74,
+"Parkwood Rd, Austin, TX 78722, USA",UnknownHood,Austin,Travis County,78722,30.3009751,-97.7118837,72,73,
+"Pasadena Dr, Austin, TX 78757, USA",Crestview,Austin,Travis County,78757,30.3467567,-97.7285273,71,89,
+"Patterson Ave, Austin, TX 78703, USA",UnknownHood,Austin,Travis County,78703,30.2789126,-97.7654445,74,84,
+"Patton Ln, Austin, TX 78723, USA",Windsor Park,Austin,Travis County,78723,30.3183461,-97.6877942,71,71,
+"Paul St, Austin, TX 78703, USA",UnknownHood,Austin,Travis County,78703,30.2725615,-97.7621575,82,84,
+"Paxton St, Austin, TX 78752, USA",Highland,Austin,Travis County,78752,30.343624,-97.7139123,81,78,
+"Peach Tree St, Austin, TX 78704, USA",Zilker,Austin,Travis County,78704,30.2552419,-97.7740456,72,89,
+"Pearl St, Austin, TX 78701, USA",UnknownHood,Austin,Travis County,78701,30.289455,-97.746635,94,98,
+"Pearl St, Austin, TX 78705, USA",UnknownHood,Austin,Travis County,78705,30.289455,-97.746635,94,98,
+"Peck Ave, Austin, TX 78751, USA",Central Austin,Austin,Travis County,78751,30.3001292,-97.7272869,76,92,
+"Pedernales St, Austin, TX 78702, USA",East Austin,Austin,Travis County,78702,30.25704,-97.7155041,90,96,
+"Penny Ln, Austin, TX 78757, USA",UnknownHood,Austin,Travis County,78757,30.3658111,-97.7311041,72,83,
+"Peoples St, Austin, TX 78702, USA",Blackshear-Prospect Hill,Austin,Travis County,78702,30.2676142,-97.7180146,86,86,
+"Pequeno St, Austin, TX 78757, USA",Brentwood,Austin,Travis County,78757,30.3378462,-97.7363789,86,86,
+"Perry Ave, Austin, TX 78704, USA",Bouldin Creek,Austin,Travis County,78704,30.245806,-97.7652984,72,73,
+"Peterson Ave, Austin, TX 78756, USA",Rosedale,Austin,Travis County,78756,30.3088806,-97.7464775,83,88,
+"Petes Path, Austin, TX 78731, USA",UnknownHood,Austin,Travis County,78731,30.3111834,-97.7503343,83,82,
+"Pickle Dr, Austin, TX 78702, USA",Govalle,Austin,Travis County,78702,30.2672271,-97.6986022,71,89,
+"Pinedale Cove, Austin, TX 78757, USA",North Shoal Creek,Austin,Travis County,78757,30.3611749,-97.7320809,78,87,
+"Pineleaf Pl, Austin, TX 78757, USA",Allandale,Austin,Travis County,78757,30.3516854,-97.7361645,74,82,
+"Pointer Ln, Austin, TX 78758, USA",North Austin Civic Association,Austin,Travis County,78758,30.365482,-97.7152931,80,76,
+"Pompton Dr, Austin, TX 78757, USA",Wooten,Austin,Travis County,78757,30.3567881,-97.726356,81,75,
+"Poplar St, Austin, TX 78705, USA",Central Austin,Austin,Travis County,78705,30.2914031,-97.7468337,90,83,
+"Poquito St, Austin, TX 78702, USA",East Austin,Austin,Travis County,78702,30.2749322,-97.7190904,86,94,
+"Post Oak St, Austin, TX 78704, USA",Bouldin Creek,Austin,Travis County,78704,30.2581398,-97.7553182,80,81,
+"Powell Cir, Austin, TX 78704, USA",Dawson,Austin,Travis County,78704,30.2330132,-97.7627246,72,71,
+"Powell St, Austin, TX 78703, USA",UnknownHood,Austin,Travis County,78703,30.2741006,-97.7622299,88,87,
+"Prado St, Austin, TX 78702, USA",Govalle,Austin,Travis County,78702,30.2612134,-97.7066638,83,97,
+"Prather Ln, Austin, TX 78704, USA",South Lamar,Austin,Travis County,78704,30.2348103,-97.7882221,74,76,
+"Pressler St, Austin, TX 78703, USA",UnknownHood,Austin,Travis County,78703,30.2738885,-97.760219,90,81,
+"Prospect Ave, Austin, TX 78702, USA",Blackshear-Prospect Hill,Austin,Travis County,78702,30.264281,-97.7178477,92,74,
+"Quailfield Cir, Austin, TX 78758, USA",North Austin Civic Association,Austin,Travis County,78758,30.3666167,-97.7067483,74,73,
+"Rabb Glen St, Austin, TX 78704, USA",Zilker,Austin,Travis County,78704,30.2493903,-97.7765627,87,84,
+"Rae Dell Ave, Austin, TX 78704, USA",UnknownHood,Austin,Travis County,78704,30.2477829,-97.7826507,75,72,
+"Rainey St, Austin, TX 78701, USA",Rainey Street Historic District,Austin,Travis County,78701,30.2584258,-97.7389076,89,96,
+"Ramona St, Austin, TX 78704, USA",Bouldin Creek,Austin,Travis County,78704,30.2561578,-97.7564172,77,87,
+"Ramos St, Austin, TX 78702, USA",Govalle,Austin,Travis County,78702,30.2607864,-97.7068772,83,97,
+"Ramsey Ave, Austin, TX 78756, USA",Rosedale,Austin,Travis County,78756,30.3162044,-97.7433696,80,83,
+"Randolph Rd, Austin, TX 78722, USA",Cherrywood,Austin,Travis County,78722,30.286608,-97.711331,79,80,
+"Rathervue Pl, Austin, TX 78705, USA",Central Austin,Austin,Travis County,78705,30.2922915,-97.7328442,78,86,
+"Ravine Dr, Austin, TX 78704, USA",Greater South River City,Austin,Travis County,78704,30.2515447,-97.7462024,83,88,
+"Real St, Austin, TX 78702, USA",East Austin,Austin,Travis County,78702,30.2826036,-97.71046,75,86,
+"Rebel Rd, Austin, TX 78704, USA",Greater South River City,Austin,Travis County,78704,30.238612,-97.749449,81,71,
+"Red Stone Ln, Austin, TX 78727, USA",Lamplight Village,Austin,Travis County,78727,30.4190561,-97.6968687,71,71,
+"Redfield Ln, Austin, TX 78758, USA",North Austin Civic Association,Austin,Travis County,78758,30.3618351,-97.7123654,78,76,
+"Redlands St, Austin, TX 78757, USA",Brentwood,Austin,Travis County,78757,30.3415444,-97.7338548,73,80,
+"Remington Ln, Austin, TX 78758, USA",North Austin Civic Association,Austin,Travis County,78758,30.3595913,-97.7147051,80,79,
+"Reserve Rd, Austin, TX 78703, USA",UnknownHood,Austin,Travis County,78703,30.2708125,-97.7614785,85,85,
+"Retama St, Austin, TX 78704, USA",Bouldin Creek,Austin,Travis County,78704,30.257396,-97.7556396,80,81,
+"Richcreek Rd, Austin, TX 78757, USA",UnknownHood,Austin,Travis County,78757,30.3487373,-97.7305369,77,86,
+"Richland St, Austin, TX 78704, USA",South Austin,Austin,Travis County,78704,30.2243743,-97.7692294,73,71,
+"Ridge Dr, Austin, TX 78721, USA",MLK,Austin,Travis County,78721,30.2765989,-97.6983904,71,78,
+"Ridgelea Dr, Austin, TX 78731, USA",UnknownHood,Austin,Travis County,78731,30.3123791,-97.7507432,75,83,
+"Rio Grande St, Austin, TX 78701, USA",UnknownHood,Austin,Travis County,78701,30.2826463,-97.7451755,96,91,
+"Rio Grande St, Austin, TX 78705, USA",UnknownHood,Austin,Travis County,78705,30.2892959,-97.7445075,94,98,
+"Robbins Pl, Austin, TX 78705, USA",Central Austin,Austin,Travis County,78705,30.2844047,-97.7494041,90,87,
+"Robert T Martinez Jr St, Austin, TX 78702, USA",Holly,Austin,Travis County,78702,30.2548334,-97.7211283,92,98,
+"Robert Weaver Ave, Austin, TX 78702, USA",East Cesar Chavez,Austin,Travis County,78702,30.253304,-97.7316479,75,94,
+"Robertson St, Austin, TX 78703, USA",Clarksville,Austin,Travis County,78703,30.278508,-97.7614912,86,96,
+"Robinson Ave, Austin, TX 78722, USA",Cherrywood,Austin,Travis County,78722,30.290434,-97.7211179,75,87,
+"Rockwood Ln, Austin, TX 78757, USA",UnknownHood,Austin,Travis County,78757,30.3646617,-97.7350458,72,88,
+"Rogers Ave, Austin, TX 78722, USA",East Austin,Austin,Travis County,78722,30.2829825,-97.7144547,83,84,
+"Roma St, Austin, TX 78704, USA",Bouldin Creek,Austin,Travis County,78704,30.2488585,-97.7535864,94,85,
+"Ronson St, Austin, TX 78705, USA",Central Austin,Austin,Travis County,78705,30.3029852,-97.739472,92,99,
+"Rose St, Austin, TX 78703, USA",UnknownHood,Austin,Travis County,78703,30.2707756,-97.7566393,97,89,
+"Rosedale Ave, Austin, TX 78756, USA",Rosedale,Austin,Travis County,78756,30.3144092,-97.7433559,82,83,
+"Rowood Rd, Austin, TX 78722, USA",UnknownHood,Austin,Travis County,78722,30.2998634,-97.7102093,78,73,
+"Russell Dr, Austin, TX 78704, USA",UnknownHood,Austin,Travis County,78704,30.2285016,-97.7861617,78,80,
+"Russell Dr, Austin, TX 78745, USA",UnknownHood,Austin,Travis County,78745,30.2285016,-97.7861617,78,80,
+"Rutgers Ave, Austin, TX 78757, USA",Crestview,Austin,Travis County,78757,30.3515091,-97.7261928,79,86,
+"Sabine St, Austin, TX 78701, USA",UnknownHood,Austin,Travis County,78701,30.2671443,-97.735844,96,86,
+"Sacramento Dr, Austin, TX 78704, USA",Dawson,Austin,Travis County,78704,30.2353989,-97.7622293,77,75,
+"Sagebrush Cir, Austin, TX 78745, USA",South Austin,Austin,Travis County,78745,30.2275058,-97.8007861,73,74,
+"St Cecelia St, Austin, TX 78757, USA",Crestview,Austin,Travis County,78757,30.3508103,-97.7327366,80,81,
+"St Joseph Blvd, Austin, TX 78757, USA",Crestview,Austin,Travis County,78757,30.3512943,-97.7312695,81,82,
+"St Louis St, Austin, TX 78757, USA",Crestview,Austin,Travis County,78757,30.3503727,-97.7318343,80,81,
+"St Phillip St, Austin, TX 78757, USA",Crestview,Austin,Travis County,78757,30.3507157,-97.7304665,81,82,
+"Salado St, Austin, TX 78705, USA",Central Austin,Austin,Travis County,78705,30.2941355,-97.745139,93,96,
+"Sales St, Austin, TX 78757, USA",Wooten,Austin,Travis County,78757,30.3562962,-97.7286131,84,78,
+"Salina St, Austin, TX 78702, USA",East Austin,Austin,Travis County,78702,30.266374,-97.7214293,90,90,
+"Salina St, Austin, TX 78722, USA",East Austin,Austin,Travis County,78722,30.2811388,-97.7225332,83,91,
+"San Antonio St, Austin, TX 78701, USA",UnknownHood,Austin,Travis County,78701,30.277257,-97.744439,93,95,
+"San Bernard St, Austin, TX 78702, USA",Central East Austin,Austin,Travis County,78702,30.2717295,-97.7262857,83,93,
+"San Gabriel St, Austin, TX 78705, USA",UnknownHood,Austin,Travis County,78705,30.2899459,-97.7476523,92,98,
+"San Jacinto Blvd, Austin, TX 78705, USA",UnknownHood,Austin,Travis County,78705,30.2862644,-97.7335585,76,90,
+"San Marcos St, Austin, TX 78702, USA",UnknownHood,Austin,Travis County,78702,30.2619504,-97.7340044,95,94,
+"San Pedro St, Austin, TX 78705, USA",Central Austin,Austin,Travis County,78705,30.2931408,-97.7457974,88,84,
+"San Saba St, Austin, TX 78702, USA",East Austin,Austin,Travis County,78702,30.2571823,-97.7139202,87,97,
+"Sanchez St, Austin, TX 78702, USA",Chestnut,Austin,Travis County,78702,30.2799399,-97.7065636,75,87,
+"Sandringham Cir, Austin, TX 78704, USA",Greater South River City,Austin,Travis County,78704,30.2378129,-97.74856,81,71,
+"Santa Clara St, Austin, TX 78757, USA",Brentwood,Austin,Travis County,78757,30.3429602,-97.7334145,77,83,
+"Santa Maria St, Austin, TX 78702, USA",Holly,Austin,Travis County,78702,30.2578958,-97.7184545,93,91,
+"Santa Rita St, Austin, TX 78702, USA",Holly,Austin,Travis County,78702,30.2570848,-97.7177097,87,95,
+"Santa Rosa St, Austin, TX 78702, USA",Holly,Austin,Travis County,78702,30.2575274,-97.7157289,92,92,
+"Sayers St, Austin, TX 78703, USA",UnknownHood,Austin,Travis County,78703,30.2713453,-97.7563289,97,89,
+"Seiders Ave, Austin, TX 78756, USA",Rosedale,Austin,Travis County,78756,30.3093285,-97.747462,76,85,
+"Sellers St, Austin, TX 78702, USA",Govalle,Austin,Travis County,78702,30.2602933,-97.7016521,73,91,
+"Sequoia Dr, Austin, TX 78758, USA",North Austin Civic Association,Austin,Travis County,78758,30.357782,-97.7140278,78,76,
+"Seton Ave, Austin, TX 78705, USA",Central Austin,Austin,Travis County,78705,30.2892492,-97.7437567,94,98,
+"Shady Glade Ct, Austin, TX 78756, USA",Rosedale,Austin,Travis County,78756,30.3219873,-97.7423212,78,86,
+"Shamrock Ave, Austin, TX 78757, USA",Wooten,Austin,Travis County,78757,30.3658508,-97.7271997,71,75,50
+"Shelley Ave, Austin, TX 78703, USA",Clarksville,Austin,Travis County,78703,30.2779736,-97.7555808,90,93,57
+"Sherwood Ln, Austin, TX 78704, USA",Greater South River City,Austin,Travis County,78704,30.2348339,-97.7520804,80,72,49
+"Shirley Ave, Austin, TX 78752, USA",Highland,Austin,Travis County,78752,30.3338973,-97.7200569,85,94,57
+"Shoal Cliff Ct, Austin, TX 78705, USA",Central Austin,Austin,Travis County,78705,30.2917292,-97.7463474,91,98,65
+"Shoal Creek Blvd, Austin, TX 78703, USA",UnknownHood,Austin,Travis County,78703,30.2925745,-97.7492755,72,72,58
+"Shoal Creek Blvd, Austin, TX 78705, USA",UnknownHood,Austin,Travis County,78705,30.302696,-97.7492478,85,82,52
+"Shoal Crest Ave, Austin, TX 78705, USA",Central Austin,Austin,Travis County,78705,30.296814,-97.7479293,88,88,58
+"Shoalmont Dr, Austin, TX 78756, USA",UnknownHood,Austin,Travis County,78756,30.3300152,-97.742842,77,86,47
+"Shoalwood Ave, Austin, TX 78756, USA",UnknownHood,Austin,Travis County,78756,30.3242432,-97.742743,79,93,50
+"Shore District Dr, Austin, TX 78741, USA",East Riverside - Oltorf,Austin,Travis County,78741,30.243678,-97.7272323,79,91,53
+"Short Hackberry St, Austin, TX 78702, USA",Central East Austin,Austin,Travis County,78702,30.2701969,-97.7266232,88,93,50
+"Sinclair Ave, Austin, TX 78756, USA",Rosedale,Austin,Travis County,78756,30.3166405,-97.7442374,76,84,51
+"Singleton Ave, Austin, TX 78702, USA",East Austin,Austin,Travis County,78702,30.2776387,-97.7145832,77,94,51
+"Skyway Cir, Austin, TX 78704, USA",UnknownHood,Austin,Travis County,78704,30.2448117,-97.7826694,79,78,45
+"S 3rd St, Austin, TX 78704, USA",UnknownHood,Austin,Travis County,78704,30.2483322,-97.7586532,89,81,54
+"S 6th St, Austin, TX 78704, USA",UnknownHood,Austin,Travis County,78704,30.2486531,-97.7632427,82,75,51
+"S Pleasant Valley Rd, Austin, TX 78741, USA",UnknownHood,Austin,Travis County,78741,30.2343095,-97.7226423,76,72,56
+"Southland Dr, Austin, TX 78704, USA",South Lamar,Austin,Travis County,78704,30.2445961,-97.775262,80,78,46
+"Sparks Ave, Austin, TX 78705, USA",Central Austin,Austin,Travis County,78705,30.2915307,-97.73045,77,88,70
+"Spearman Dr, Austin, TX 78757, USA",Wooten,Austin,Travis County,78757,30.3629968,-97.7208836,76,76,47
+"Speedway, Austin, TX 78705, USA",UnknownHood,Austin,Travis County,78705,30.2983528,-97.7349519,86,98,64
+"Speedway, Austin, TX 78751, USA",UnknownHood,Austin,Travis County,78751,30.3033268,-97.7318132,77,100,61
+"Spence St, Austin, TX 78702, USA",East Cesar Chavez,Austin,Travis County,78702,30.2584956,-97.7345201,86,96,51
+"Spillman St, Austin, TX 78704, USA",Zilker,Austin,Travis County,78704,30.2562961,-97.7692395,74,88,44
+"Spring Ln, Austin, TX 78703, USA",Tarrytown,Austin,Travis County,78703,30.2993365,-97.7653977,73,77,30
+"Stacy Ln, Austin, TX 78704, USA",Dawson,Austin,Travis County,78704,30.2377711,-97.7612421,82,71,49
+"Stafford St, Austin, TX 78722, USA",East Austin,Austin,Travis County,78722,30.2838754,-97.7152721,86,85,55
+"Sterzing St, Austin, TX 78704, USA",Zilker,Austin,Travis County,78704,30.2644499,-97.763172,76,84,52
+"Stillwood Ln, Austin, TX 78757, USA",North Shoal Creek,Austin,Travis County,78757,30.3655978,-97.7323383,71,86,49
+"Stokes Dr, Austin, TX 78702, USA",Govalle,Austin,Travis County,78702,30.264524,-97.7040749,73,89,47
+"Sunset Ln, Austin, TX 78704, USA",Greater South River City,Austin,Travis County,78704,30.2450793,-97.7443707,79,78,51
+"Sunset View, Austin, TX 78704, USA",Zilker,Austin,Travis County,78704,30.2631681,-97.7645122,76,79,49
+"Sunshine Dr, Austin, TX 78756, USA",Brentwood,Austin,Travis County,78756,30.3223605,-97.7320728,72,83,57
+"Sunshine Dr, Austin, TX 78757, USA",Brentwood,Austin,Travis County,78757,30.3223605,-97.7320728,72,83,57
+"Swanee Dr, Austin, TX 78752, USA",Highland,Austin,Travis County,78752,30.3350092,-97.714579,74,96,56
+"Swenson Ave, Austin, TX 78702, USA",Blackshear-Prospect Hill,Austin,Travis County,78702,30.2647111,-97.7160191,90,81,49
+"Swisher St, Austin, TX 78705, USA",Central Austin,Austin,Travis County,78705,30.288225,-97.725972,81,93,65
+"Taylor St, Austin, TX 78702, USA",East Cesar Chavez,Austin,Travis County,78702,30.2567696,-97.7340608,85,96,50
+"Teakwood Dr, Austin, TX 78757, USA",Wooten,Austin,Travis County,78757,30.3592359,-97.7265072,74,76,50
+"Tejas Trail, Austin, TX 78745, USA",South Austin,Austin,Travis County,78745,30.2286081,-97.7981937,71,76,52
+"Terrace Dr, Austin, TX 78704, USA",Greater South River City,Austin,Travis County,78704,30.2426038,-97.7480672,84,74,51
+"The Cir, Austin, TX 78704, USA",Greater South River City,Austin,Travis County,78704,30.2505532,-97.7488211,91,89,55
+"Theckla Terrace, Austin, TX 78756, USA",Brentwood,Austin,Travis County,78756,30.3293823,-97.7335863,74,79,51
+"Theresa Ave, Austin, TX 78703, USA",UnknownHood,Austin,Travis County,78703,30.2796529,-97.7661252,74,84,41
+"Tillotson Ave, Austin, TX 78702, USA",Blackshear-Prospect Hill,Austin,Travis County,78702,30.2664097,-97.7189594,88,90,48
+"Tinnin Ford Rd, Austin, TX 78741, USA",East Riverside - Oltorf,Austin,Travis County,78741,30.2419798,-97.7259221,80,89,53
+"Tisdale Dr, Austin, TX 78757, USA",UnknownHood,Austin,Travis County,78757,30.3504736,-97.7193701,76,83,52
+"Tom Green St, Austin, TX 78705, USA",North University,Austin,Travis County,78705,30.2962996,-97.7328556,72,95,63
+"Toomey Rd, Austin, TX 78704, USA",Zilker,Austin,Travis County,78704,30.2640981,-97.7600139,85,90,58
+"Tower View Ct, Austin, TX 78723, USA",MLK,Austin,Travis County,78723,30.2877189,-97.7053455,74,92,49
+"Town Creek Dr, Austin, TX 78741, USA",East Riverside - Oltorf,Austin,Travis County,78741,30.2434696,-97.7260846,79,91,53
+"Town Lake Cir, Austin, TX 78741, USA",East Riverside - Oltorf,Austin,Travis County,78741,30.2395295,-97.7237859,71,87,54
+"Towne Park Trail, Austin, TX 78751, USA",Hyde Park,Austin,Travis County,78751,30.3011525,-97.7289767,81,100,60
+"Toyath St, Austin, TX 78703, USA",Clarksville,Austin,Travis County,78703,30.281622,-97.763038,76,86,41
+"Treadwell St, Austin, TX 78704, USA",Zilker,Austin,Travis County,78704,30.2577015,-97.7647685,79,79,46
+"Tremont St, Austin, TX 78703, USA",Clarksville,Austin,Travis County,78703,30.2763168,-97.7600605,90,81,49
+"Trinity St, Austin, TX 78712, USA",UnknownHood,Austin,Travis County,78712,30.2851437,-97.7327902,71,86,71
+"Trone Cir, Austin, TX 78758, USA",North Austin Civic Association,Austin,Travis County,78758,30.3631185,-97.7099852,71,82,44
+"Tronewood Dr, Austin, TX 78758, USA",North Austin Civic Association,Austin,Travis County,78758,30.3633126,-97.7112156,78,83,44
+"Tyler St, Austin, TX 78756, USA",Rosedale,Austin,Travis County,78756,30.3213782,-97.7410808,77,85,52
+"Ulit Ave, Austin, TX 78702, USA",Chestnut,Austin,Travis County,78702,30.2792343,-97.7120407,74,84,52
+"Ullrich Ave, Austin, TX 78756, USA",Brentwood,Austin,Travis County,78756,30.3321023,-97.7359364,83,83,51
+"University Ave, Austin, TX 78705, USA",UnknownHood,Austin,Travis County,78705,30.2878977,-97.738872,87,87,73
+"University Ave, Austin, TX 78712, USA",UnknownHood,Austin,Travis County,78712,30.2864263,-97.7393374,90,92,73
+"Upson St, Austin, TX 78703, USA",Westfield,Austin,Travis County,78703,30.2792772,-97.770365,73,79,41
+"Valeria St, Austin, TX 78704, USA",Zilker,Austin,Travis County,78704,30.2497727,-97.7709088,88,89,46
+"Vallejo St, Austin, TX 78757, USA",Brentwood,Austin,Travis County,78757,30.3422452,-97.7336404,73,80,48
+"Valleydale Cv, Austin, TX 78757, USA",North Shoal Creek,Austin,Travis County,78757,30.3637481,-97.7324122,75,86,50
+"Vance Cir, Austin, TX 78701, USA",Downtown Austin,Austin,Travis County,78701,30.2833687,-97.7498534,81,71,58
+"Verde Vista, Austin, TX 78703, USA",Tarrytown,Austin,Travis County,78703,30.2996214,-97.7666409,72,73,30
+"Villanova Dr, Austin, TX 78757, USA",Wooten,Austin,Travis County,78757,30.3594322,-97.7199356,73,76,49
+"Vineland Dr, Austin, TX 78722, USA",Cherrywood,Austin,Travis County,78722,30.2912139,-97.7099853,75,86,50
+"Virginia Ave, Austin, TX 78704, USA",Zilker,Austin,Travis County,78704,30.2617471,-97.7636422,80,85,47
+"Wabash Ave, Austin, TX 78705, USA",Old West Austin,Austin,Travis County,78705,30.3014901,-97.7473405,90,83,55
+"Waller St, Austin, TX 78702, USA",East Austin,Austin,Travis County,78702,30.2639693,-97.7307189,95,91,53
+"Walling Dr, Austin, TX 78705, USA",North University,Austin,Travis County,78705,30.2944664,-97.7344394,76,83,70
+"Walnut Ave, Austin, TX 78702, USA",East Austin,Austin,Travis County,78702,30.2784626,-97.7128463,77,91,52
+"Walsh St, Austin, TX 78703, USA",UnknownHood,Austin,Travis County,78703,30.2722719,-97.7578909,95,84,55
+"Washington Square, Austin, TX 78705, USA",Central Austin,Austin,Travis County,78705,30.298494,-97.7433328,94,99,62
+"Waterston Ave, Austin, TX 78703, USA",Clarksville,Austin,Travis County,78703,30.28215,-97.7617409,78,83,41
+"Webberville Rd, Austin, TX 78702, USA",UnknownHood,Austin,Travis County,78702,30.2648635,-97.710113,73,84,49
+"Weber Ave, Austin, TX 78722, USA",East Austin,Austin,Travis County,78722,30.2823494,-97.7155458,79,85,54
+"Werner Ave, Austin, TX 78722, USA",Cherrywood,Austin,Travis County,78722,30.2916857,-97.7183779,73,83,56
+"W 10th St, Austin, TX 78703, USA",UnknownHood,Austin,Travis County,78703,30.278847,-97.760055,88,94,45
+"W 11th St, Austin, TX 78703, USA",UnknownHood,Austin,Travis County,78703,30.2794406,-97.7596593,88,94,45
+"W 12th St, Austin, TX 78703, USA",UnknownHood,Austin,Travis County,78703,30.2811547,-97.7609497,81,87,42
+"W 13th St, Austin, TX 78701, USA",UnknownHood,Austin,Travis County,78701,30.2775157,-97.7484351,88,89,66
+"W 15th St, Austin, TX 78701, USA",UnknownHood,Austin,Travis County,78701,30.2788838,-97.7461979,93,91,67
+"W 15th St, Austin, TX 78703, USA",UnknownHood,Austin,Travis County,78703,30.2797672,-97.7496435,84,73,63
+"W 16th St, Austin, TX 78701, USA",Downtown Austin,Austin,Travis County,78701,30.2791465,-97.7437121,95,98,72
+"W 17th St, Austin, TX 78701, USA",Downtown Austin,Austin,Travis County,78701,30.2803264,-97.7444597,95,93,70
+"W 18th St, Austin, TX 78701, USA",Downtown Austin,Austin,Travis County,78701,30.2810497,-97.7435509,96,95,71
+"W 20th St, Austin, TX 78705, USA",UnknownHood,Austin,Travis County,78705,30.2825679,-97.7408966,96,94,72
+"W 21st St, Austin, TX 78705, USA",UnknownHood,Austin,Travis County,78705,30.283913,-97.7435324,96,93,70
+"W 22nd St, Austin, TX 78705, USA",UnknownHood,Austin,Travis County,78705,30.2851877,-97.74444,95,97,69
+"W 23rd St, Austin, TX 78705, USA",Central Austin,Austin,Travis County,78705,30.2872982,-97.7459027,94,97,66
+"W 24th St, Austin, TX 78705, USA",UnknownHood,Austin,Travis County,78705,30.2881023,-97.7470017,93,97,63
+"W 25th St, Austin, TX 78705, USA",UnknownHood,Austin,Travis County,78705,30.289455,-97.746635,94,98,65
+"W 25th St, Austin, TX 78712, USA",UnknownHood,Austin,Travis County,78712,30.2887905,-97.7416698,93,98,71
+"W 26th St, Austin, TX 78705, USA",Central Austin,Austin,Travis County,78705,30.2907243,-97.7453593,91,98,65
+"W 27th St, Austin, TX 78705, USA",UnknownHood,Austin,Travis County,78705,30.2919849,-97.7409846,93,98,70
+"W 28th St, Austin, TX 78705, USA",Central Austin,Austin,Travis County,78705,30.2933837,-97.743734,94,99,67
+"W 29th St, Austin, TX 78703, USA",UnknownHood,Austin,Travis County,78703,30.2998542,-97.7511202,81,82,51
+"W 2nd St, Austin, TX 78701, USA",Downtown Austin,Austin,Travis County,78701,30.2654153,-97.7481323,97,89,69
+"W 30th St, Austin, TX 78705, USA",UnknownHood,Austin,Travis County,78705,30.2984754,-97.7457783,93,90,59
+"W 31st St, Austin, TX 78705, USA",UnknownHood,Austin,Travis County,78705,30.3000141,-97.7456924,93,86,58
+"W 32nd St, Austin, TX 78705, USA",UnknownHood,Austin,Travis County,78705,30.3010685,-97.7457452,92,98,56
+"W 33rd St, Austin, TX 78705, USA",UnknownHood,Austin,Travis County,78705,30.3018316,-97.7452763,92,98,56
+"W 34th St, Austin, TX 78703, USA",UnknownHood,Austin,Travis County,78703,30.3062609,-97.7519536,87,87,46
+"W 35th St, Austin, TX 78705, USA",UnknownHood,Austin,Travis County,78705,30.3038259,-97.7450356,85,92,56
+"W 36th St, Austin, TX 78731, USA",Oakmont Heights,Austin,Travis County,78731,30.3095023,-97.7543271,79,84,40
+"W 37th St, Austin, TX 78705, USA",UnknownHood,Austin,Travis County,78705,30.3045954,-97.7445406,85,92,56
+"W 37th St, Austin, TX 78731, USA",UnknownHood,Austin,Travis County,78731,30.3099516,-97.7520164,82,89,44
+"W 38th St, Austin, TX 78731, USA",UnknownHood,Austin,Travis County,78731,30.3084288,-97.7493994,83,83,50
+"W 39th St, Austin, TX 78731, USA",UnknownHood,Austin,Travis County,78731,30.3107008,-97.7496738,76,84,49
+"W 39th St, Austin, TX 78756, USA",UnknownHood,Austin,Travis County,78756,30.3074444,-97.7448565,87,91,55
+"W 3rd St, Austin, TX 78703, USA",UnknownHood,Austin,Travis County,78703,30.2690748,-97.7549836,95,91,64
+"W 40th St, Austin, TX 78731, USA",UnknownHood,Austin,Travis County,78731,30.3111495,-97.7483823,76,84,49
+"W 40th St, Austin, TX 78756, USA",UnknownHood,Austin,Travis County,78756,30.30791,-97.7415587,90,94,58
+"W 41st St, Austin, TX 78731, USA",UnknownHood,Austin,Travis County,78731,30.312394,-97.7479029,71,80,50
+"W 41st St, Austin, TX 78756, USA",UnknownHood,Austin,Travis County,78756,30.3089299,-97.7407077,88,94,58
+"W 43rd St, Austin, TX 78751, USA",UnknownHood,Austin,Travis County,78751,30.3074983,-97.7320742,85,99,59
+"W 43rd St, Austin, TX 78756, USA",UnknownHood,Austin,Travis County,78756,30.3110129,-97.7393207,89,93,57
+"W 44th St, Austin, TX 78751, USA",UnknownHood,Austin,Travis County,78751,30.3097396,-97.733672,86,97,59
+"W 45th St, Austin, TX 78751, USA",UnknownHood,Austin,Travis County,78751,30.3110732,-97.733408,86,94,59
+"W 46th St, Austin, TX 78756, USA",UnknownHood,Austin,Travis County,78756,30.3149998,-97.7359574,85,77,58
+"W 47th St, Austin, TX 78756, USA",UnknownHood,Austin,Travis County,78756,30.3179977,-97.7399207,85,79,54
+"W 4th St, Austin, TX 78701, USA",UnknownHood,Austin,Travis County,78701,30.2681057,-97.7501866,98,88,68
+"W 51st St, Austin, TX 78751, USA",UnknownHood,Austin,Travis County,78751,30.3187353,-97.7308792,78,87,58
+"W 51st St, Austin, TX 78756, USA",UnknownHood,Austin,Travis County,78756,30.3187353,-97.7308792,78,87,58
+"W 7th St, Austin, TX 78701, USA",UnknownHood,Austin,Travis County,78701,30.2739309,-97.7563771,94,80,57
+"W 7th St, Austin, TX 78703, USA",UnknownHood,Austin,Travis County,78703,30.2739309,-97.7563771,94,80,57
+"W 8th St, Austin, TX 78701, USA",UnknownHood,Austin,Travis County,78701,30.2748812,-97.757196,94,80,57
+"W 8th St, Austin, TX 78703, USA",UnknownHood,Austin,Travis County,78703,30.2768521,-97.7615411,90,94,44
+"W 9th St, Austin, TX 78701, USA",UnknownHood,Austin,Travis County,78701,30.2762112,-97.757883,89,82,52
+"W 9th St, Austin, TX 78703, USA",UnknownHood,Austin,Travis County,78703,30.277607,-97.7608792,90,94,44
+"W Anderson Ln., Austin, TX 78757, USA",UnknownHood,Austin,Travis County,78757,30.3551388,-97.7287884,90,79,51
+"W Annie St, Austin, TX 78704, USA",Bouldin Creek,Austin,Travis County,78704,30.2479575,-97.7574818,93,84,53
+"West Ave, Austin, TX 78701, USA",UnknownHood,Austin,Travis County,78701,30.2828587,-97.7459107,94,96,65
+"West Ave, Austin, TX 78705, USA",UnknownHood,Austin,Travis County,78705,30.2965643,-97.7452288,95,95,62
+"W Cesar Chavez St, Austin, TX 78703, USA",UnknownHood,Austin,Travis County,78703,30.2681065,-97.7585875,75,89,60
+"W Crestland Dr, Austin, TX 78752, USA",Highland,Austin,Travis County,78752,30.3400075,-97.7125395,76,84,55
+"W Elizabeth St, Austin, TX 78704, USA",Bouldin Creek,Austin,Travis County,78704,30.2506669,-97.7546771,90,87,56
+"W James St, Austin, TX 78704, USA",Bouldin Creek,Austin,Travis County,78704,30.2531272,-97.755384,77,74,57
+"W Johanna St, Austin, TX 78704, USA",Bouldin Creek,Austin,Travis County,78704,30.2460527,-97.7584095,95,84,53
+"W Live Oak St, Austin, TX 78704, USA",UnknownHood,Austin,Travis County,78704,30.2449108,-97.7591269,94,79,52
+"W Lynn St, Austin, TX 78703, USA",UnknownHood,Austin,Travis County,78703,30.2793171,-97.7597436,88,94,45
+"W Milton St, Austin, TX 78704, USA",Bouldin Creek,Austin,Travis County,78704,30.2487216,-97.7568129,92,86,55
+"W Monroe St, Austin, TX 78704, USA",Bouldin Creek,Austin,Travis County,78704,30.2497485,-97.7560357,92,86,55
+"W Odell St, Austin, TX 78752, USA",Highland,Austin,Travis County,78752,30.3382306,-97.7131894,77,90,56
+"W Pointer Ln, Austin, TX 78758, USA",North Austin Civic Association,Austin,Travis County,78758,30.3671647,-97.7142164,74,77,44
+"W Riverside Dr, Austin, TX 78704, USA",UnknownHood,Austin,Travis County,78704,30.2620306,-97.7517547,77,96,66
+"W William Cannon Dr, Austin, TX 78745, USA",UnknownHood,Austin,Travis County,78745,30.2070667,-97.8149062,73,82,40
+"Westbury Trail, Austin, TX 78758, USA",North Austin Civic Association,Austin,Travis County,78758,30.3636773,-97.7119975,78,83,44
+"Western Trails Blvd, Austin, TX 78745, USA",South Austin,Austin,Travis County,78745,30.2297525,-97.7970532,73,79,53
+"Westforest Dr, Austin, TX 78704, USA",UnknownHood,Austin,Travis County,78704,30.2432379,-97.7842236,80,83,46
+"Westhill Dr, Austin, TX 78704, USA",UnknownHood,Austin,Travis County,78704,30.2452726,-97.7852198,74,73,45
+"Westland Dr, Austin, TX 78704, USA",Barton Hills,Austin,Travis County,78704,30.2421316,-97.7861219,73,79,46
+"Westoak Dr, Austin, TX 78704, USA",UnknownHood,Austin,Travis County,78704,30.2438182,-97.7850076,77,79,45
+"Westrock Dr, Austin, TX 78704, USA",UnknownHood,Austin,Travis County,78704,30.2432493,-97.7862013,73,72,46
+"Westway Cir, Austin, TX 78704, USA",Barton Hills,Austin,Travis County,78704,30.2439867,-97.783717,81,85,45
+"Westworth Cir, Austin, TX 78704, USA",Barton Hills,Austin,Travis County,78704,30.2433664,-97.7866636,73,72,46
+"Weyford Dr, Austin, TX 78757, USA",Wooten,Austin,Travis County,78757,30.3601819,-97.7193284,78,78,48
+"Wheeler St, Austin, TX 78705, USA",North University,Austin,Travis County,78705,30.2975939,-97.7401177,95,91,64
+"Wheeless St, Austin, TX 78702, USA",Central East Austin,Austin,Travis County,78702,30.2679738,-97.7275347,93,91,52
+"Whitis Ave, Austin, TX 78705, USA",UnknownHood,Austin,Travis County,78705,30.2900474,-97.7402217,90,94,72
+"Whittman Cove, Austin, TX 78757, USA",Wooten,Austin,Travis County,78757,30.3617775,-97.7225081,76,74,48
+"Wichita St, Austin, TX 78705, USA",UnknownHood,Austin,Travis County,78705,30.283587,-97.7390089,92,90,72
+"Wickford Cir, Austin, TX 78704, USA",Greater South River City,Austin,Travis County,78704,30.2385158,-97.7478944,78,72,49
+"Wild St, Austin, TX 78757, USA",Brentwood,Austin,Travis County,78757,30.3337477,-97.7229122,77,90,56
+"Wildwood Rd, Austin, TX 78722, USA",Cherrywood,Austin,Travis County,78722,30.2982099,-97.7150347,74,81,49
+"Willbert Rd, Austin, TX 78751, USA",Central Austin,Austin,Travis County,78751,30.2967634,-97.7206293,81,88,50
+"Willow St, Austin, TX 78701, USA",UnknownHood,Austin,Travis County,78701,30.2596727,-97.7350301,90,95,54
+"Willow St, Austin, TX 78702, USA",UnknownHood,Austin,Travis County,78702,30.2551349,-97.7219954,93,97,48
+"Willowbrook Dr, Austin, TX 78722, USA",Cherrywood,Austin,Travis County,78722,30.2914519,-97.7111178,72,89,50
+"Wilmes Dr, Austin, TX 78752, USA",Highland,Austin,Travis County,78752,30.3303933,-97.7194871,73,97,55
+"Wilshire Blvd, Austin, TX 78722, USA",Cherrywood,Austin,Travis County,78722,30.2963458,-97.7136976,80,76,48
+"Wilshire Pkwy, Austin, TX 78722, USA",Cherrywood,Austin,Travis County,78722,30.2972396,-97.7118152,83,74,48
+"Wilson St, Austin, TX 78704, USA",UnknownHood,Austin,Travis County,78704,30.2354989,-97.7603226,81,74,49
+"Windswept Cove, Austin, TX 78745, USA",South Austin,Austin,Travis County,78745,30.2296469,-97.8016368,74,74,49
+"Winflo Dr, Austin, TX 78703, USA",UnknownHood,Austin,Travis County,78703,30.2749045,-97.7586516,91,79,54
+"Woodfield Dr, Austin, TX 78758, USA",North Austin Civic Association,Austin,Travis County,78758,30.3642067,-97.7079783,72,82,44
+"Woodrow Ave, Austin, TX 78757, USA",UnknownHood,Austin,Travis County,78757,30.3405228,-97.7264567,74,88,54
+"Woodview Ave, Austin, TX 78757, USA",Allandale,Austin,Travis County,78757,30.3335225,-97.7445132,73,77,47
+"Wooten Dr, Austin, TX 78757, USA",Wooten,Austin,Travis County,78757,30.3555246,-97.7220778,73,75,51
+"Wright St, Austin, TX 78704, USA",Zilker,Austin,Travis County,78704,30.2555832,-97.7728008,75,89,42
+"Wrightwood Rd, Austin, TX 78722, USA",Cherrywood,Austin,Travis County,78722,30.2958295,-97.7152097,73,79,47
+"Yale St, Austin, TX 78702, USA",Blackshear-Prospect Hill,Austin,Travis County,78702,30.2680384,-97.717404,85,83,48
+"Zennia St, Austin, TX 78751, USA",North Loop,Austin,Travis County,78751,30.3184664,-97.7279111,72,90,58
